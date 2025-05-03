@@ -1,0 +1,129 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What are the perks of studying at Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Galgotias University offers a good campus life. Galgotias University campus sprawls over an area of 52 acres. The state-of-the-art campus has been designed by renowned architects specialising in educational architecture. The university has laboratories, classrooms, a library, hostels, and cafeterias. The infrastructure of Galgotias University has been given 3.9 stars by more than 1,000 Shiksha-verified students. According to the reviews, it can be said that the university helps with overall development."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the facilities provided by Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Galgotias University provides modern amenities with state-of-the-art infrastructure to its students. The university campus is spread over an area of 52 acres of rolling greens at a prime location on the Yamuna Expressway. The facilities include a fully Wi-Fi campus, Air-conditioned classrooms with audio-visual and multi-media facilities, Well equipped Conference hall and Seminar hall, 24-hour Internet connectivity with 4Mbps bandwidth, Separate Hostels for boys & girls with adequate safety arrangements for girls’ hostel, Tie-up with nearby hospital for OPD and emergencies, laboratories, a library, hostels, cafeterias, etc. Additionally, the university also has indoor and outdoor sports facilities for students."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Galgotias University has a hostel facility?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Galgotias University has a hostel facility both for boys and girls. The campus hostels are surrounded by lush green lawns and playing fields. The hostels have uninterrupted power backup. There are also facilities for indoor games like TT, carom, chess, etc. The management of the hostel is under the control of a warden or hostel in charge. With a sense of community and brotherhood, students have a cosy and comfortable stay. The canteen at the hostel serves students hygienic, high-quality food that has been cooked by chefs with formal training. The hostel mess serves very well, filling meals. The mess accommodates the diverse gastronomic interests of students from various geographical locations. The management, the caterer, and the students work together to plan and oversee the mess menu."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/greater-noida",
+                    "name": "Colleges in Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105",
+                    "name": "Galgotias University Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/infrastructure",
+                    "name": "Infrastructure"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Galgotias University Greater Noida Infrastructure: Details, Reviews, Facilities",
+        "description": "Check Galgotias University Greater Noida Infrastructure details, campus & classroom Reviews and  Facilities available inside & outside the campus. Download Brochure & complete Infrastructure details of Galgotias University Greater Noida.",
+        "dateModified": "2023-10-11T09:49:00+05:30",
+        "datePublished": "2023-10-11T09:49:48+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/infrastructure",
+            "@type": "WebPage",
+            "name": "Galgotias University"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "BhavanaPandey",
+            "url": "https://www.shiksha.com/author/Bhavana277593"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1569477243php7w52lR.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

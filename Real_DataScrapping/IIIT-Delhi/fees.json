@@ -1,0 +1,158 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi, Okhla",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.456521735675093",
+            "reviewCount": "158",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How can I study at IIIT Delhi at a cheaper cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Here are some of the ways in which you can reduce the cost of studying at IIIT Delhi: Apply for scholarships: IIIT Delhi offers a number of scholarships to students who meet certain criteria, such as academic merit or financial need. Take up a part-time job: There are a number of part-time jobs available on campus, such as teaching assistants, research assistants, and library assistants. These jobs can help you to earn some extra money to help offset the cost of your education. Take a loan: If you are unable to afford the cost of your education, you can take out a loan from a bank or financial institution. However, it is important to note that loans can be expensive, so you should only take one out if you are confident that you will be able to repay it. If you are interested in studying B.Teach. CSE at IIIT Delhi, you should start planning early. You should apply for scholarships, start looking for part-time jobs, and consider taking out a loan. By doing this, you can reduce the cost of your education and make it more affordable."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the hostel fee of IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi charges INR 90,000 and INR 68,000 for single and twin-sharing rooms. Hostel fees are revised every year. Mess charges are somewhere between INR 10,000 and INR 15,000 for four months. The institute refunds the hostel security at the time of passing out/ leaving the institute through no dues form."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee refund policy at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In case of cancellation or withdrawal of admission, students are refunded some part of the fee. Below is the fee refund policy followed at IIIT Delhi: Timeline for Withdrawal Amount Refundable On or before withdrawal date, upto 5 PM Whole fees paid after deduction of INR 1,000 After withdrawal date 10,000 (only Security Deposit) Alumni deposit along with the security deposit INR 2,000"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the cost of studying M.Tech in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi MTech course fee includes multiple fee components such as tuition fee, hostel charges (if applicable), security deposit, alumni fee, etc. The total tuition fee for MTech ranges between INR 3.7 lakh and INR 6 lakh. This given fee range is inclusive of fees for all the MTech specialisations. It must be taken into account that the mentioned fee is as per the official website/sanctioning body. It is still subject to changes and hence, is indicative."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee for IIIT Delhi BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "BTech total course fee is cumulative of various fee components, including tuition fee, hostel charges (if applicable), alumni fee, security money, etc. The one-time fee includes a security deposit, admission fee, etc. Table given below showcases the IIIT Delhi BTech fee structure: Fee components Amount (4 years) Tuition fees INR 19.55 Lakh Hostel fees INR 4.40 Lakh One-time payment INR 12,000 NOTE: The above-mentioned fee is as per the official website/sanctioning body. It is still subject to changes and hence, is indicative."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/fees",
+                    "name": "fees"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIIT Delhi Fees 2025: Admission, Hostel & all Courses Fee Structure",
+        "description": "Get IIIT Delhi fee structure along with hostel, admission, transport, library & other applicable fees! Download brochure and check yearly and complete fees of IIIT Delhi for various courses & activities at Shiksha",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/fees",
+            "@type": "WebPage",
+            "name": "IIIT Delhi - Indraprastha Institute of Information Technology"
+        },
+        "author": {
+            "@type": "Person"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

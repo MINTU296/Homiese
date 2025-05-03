@@ -1,0 +1,410 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi, Hauz khas",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How are IIT Delhi placements compared with other top IITs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The below-mentioned comparison table showcases IIT Delhi placement 2023 statistics in comparison to other top IITs such as IIT Bombay, IIT Kanpur and IIT Madras: IIT Name Highest Package (2023) Average Package (2023) Number of Offers (2023) IIT Delhi INR 2.5 crore per annum INR 17.60 LPA 1,300 <a href=\"https://www.shiksha.com/college/iit-madras-indian-institute-of-technology-adyar-chennai-3031/placement\">IIT Madras</a> INR 1.31 crore per annum INR 17.00 LPA (median package) 1,612 <a href=\"https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212/placement\">IIT Bombay</a> INR 3.67 crore per annum INR 21.82 LPA 1,898 <a href=\"https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116/placement\">IIT Kanpur</a> INR 1.9 crore per annum INR 22.07 LPA 1,200 Note: IIT Delhi and IIT Kanpur average package data are not released. Hence, basis NIRF report 2023, the median package offered during IIT Delhi and IIT Kanpur BTech placements 2022 is shown above."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many companies visit the campus during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 1,200 offers were made and 1,150 students were placed during the Phase 1 of IIT Delhi placements 2025. Further, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. The key highlights of IIT Delhi placements over the past three years are presented below: Particulars Placement Statistics (2023) Placement Statistics (2024) Placement Statistics (2025) Total offers 1300 1050 1200 Students placed 1150 1000 1150 International offers 30 50 50+ Companies visited 500 370 NA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are IIT Delhi internships?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 830 internship offers were received during IIT Delhi internships 2022 whereas 520 internship offers received during IIT Delhi internships 2021, which is also presented below: Particulars Internship Statistics (2021) Internship Statistics (2022) No. of Internship Offers 830 520"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many offers were received during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "At end of IIT Delhi Phase 1 placements 2024-25, a total of 1,200 offers were made and 1,150 students were placed. In addition, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. International offers came from more than 15 organisations across multiple global regions including Netherlands, Japan, UAE, South Korea, Taiwan, United States and United Kingdom. The success rate of campus placements at IIT Delhi over the past three years is presented below: Particulars Placement Statistics (2023) Placement Statistics (2024) Placement Statistics (2025) Total offers 1300 1050 1200 Students placed 1150 1000 1150 International offers 30 50 50+"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Where are IIT Delhi alumni working?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to data gathered from unofficial sources, IIT Delhi alumni are working in leading companies such as Google, Microsoft and Amazon. The sector-wise IIT Delhi alumni placement statistics are presented below: Note: The above-mentioned alumni data is gathered from unofficial sources and hence may vary."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are some fascinating placement stories from IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to unofficial sources, an interesting placement story revolves around a campus-interview where the interviewer observes “Chess as a hobby” in the resume of the student. The interviewer asks the student to play a virtual game of Chess with him by mentally shuffling the pieces. Subsequently, the interviewer, knowingly, makes a wrong move by moving the Queen, and interestingly, the student was quick to pounce on this and correct the interviewer, which landed the student the job."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the sector-wise employment percentage record during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Core (Technical) sector emerged as the top recruiting sector that placed 20.7% of the total students. The sector-wise placement distribution recorded during IIT Delhi placements 2024 is presented below: The sector-wise placement distribution recorded during IIT Delhi placements 2024 is presented below: Sectors Placement Distribution (2024) Core (Technical) 38.6% IT 20.7% Analytics 10.9% Consulting 10% Management 8.3% Finance 4.2% Others 7.3%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How good are the BTech placements at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 1,200 offers were made and 1,150 students were placed during the Phase 1 of IIT Delhi placements 2025. Further, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. According to Engineering NIRF report 2024, the median package offered during BTech placements 2023, 2022 and 2021 stood at INR 20 LPA, INR 20.5 LPA and INR 17.6 LPA, respectively. According to unofficial sources, the placement rate recorded during IIT Delhi BTech placements 2023 was 90.01%."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which companies generally participate during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The list of top recruiters during IIT Delhi placements 2025 is presented below: IIT Delhi Top Recruiters 2025 American Express Oracle Barclays PayU BCG Quadeye Deutsche India Pvt Ltd Qualcomm Goldman Sachs Robust Results Private Limited Google Shiprocket Graviton Research Capital Squarepoint Capital Intel India Texas Instruments Meesho Trident Group Micron Technology Turing Global India Pvt Ltd Microsoft OLA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the success rate of campus placements at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The success rate of campus placements at IIT Delhi over the past three years is presented below: Particulars Placement Statistics (2023) Placement Statistics (2024) Placement Statistics (2025) Total offers 1300 1050 1200 Students placed 1150 1000 1150 International offers 30 50 50+ Companies visited 500 370 NA Average package INR 21.9 LPA NA NA Median package INR 19.5 LPA NA NA Placement rate 84.94% NA NA Note: The data presented is of Phase 1 placements."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which is the top recruiting sector during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Core (Technical) sector emerged as the top recruiting sector that placed 36.6% of the total students during IIT Delhi placement 2024. The sector-wise IIT Delhi placements 2024 is presented below: Sectors Placement Distribution 2024 Core (Technical) 38.6% IT 20.7% Analytics 10.9% Consulting 10% Management 8.3% Finance 4.2% Others 7.4%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the placement distribution from IT sector during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to the official report, IT sector recorded 20.70% placement distribution during IIT Delhi placements 2024. The top recruiting sector was Core (Technical) sector that placed 38.6% of the total students during IIT Delhi placement 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi have good placement distribution from Consulting sector?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to the official report, Consulting sector recorded 10% placement distribution during IIT Delhi placements 2024. The top recruiting sector was Core (Technical) sector that placed 38.6% of the total students during IIT Delhi placement 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who are the top recruiters during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The list of top recruiters during IIT Delhi placements 2025 is presented below: IIT Delhi Top Recruiters 2025 American Express Oracle Barclays PayU BCG Quadeye Deutsche India Pvt Ltd Qualcomm Goldman Sachs Robust Results Private Limited Google Shiprocket Graviton Research Capital Squarepoint Capital Intel India Texas Instruments Meesho Trident Group Micron Technology Turing Global India Pvt Ltd Microsoft OLA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do international companies visit the campus during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, international companies visit the campus during IIT Delhi placements. At end of IIT Delhi Phase 1 placements 2024-25, a total of 1,200 offers were made and 1,150 students were placed. In addition, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many international offers are made during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "At end of IIT Delhi Phase 1 placements 2024-25, a total of 1,200 offers were made and 1,150 students were placed. In addition, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. The International offers came from more than 15 organisations across multiple global regions including Netherlands, Japan, UAE, South Korea, Taiwan, United States and United Kingdom."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi offer good placements for its MBA program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIT Delhi MBA placements 2023 as compared with 2022 and 2021 are presented below: Particulars MBA Placement Statistics (2021) MBA Placement Statistics (2022) MBA Placement Statistics (2023) the highest package INR 33.8 LPA INR 36.7 LPA INR 41.13 LPA Average package INR 18.5 LPA INR 21.9 LPA INR 25.82 LPA Median package INR 16.2 LPA INR 20.6 LPA INTR 24.45 LPA Placement rate 100% 100% 100%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package trends recorded during IIT Delhi MBA placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered during IIT Delhi MBA placements over the past three years is presented below: Particulars MBA Placement Statistics (2021) MBA Placement Statistics (2022) MBA Placement Statistics (2023) Average package INR 18.5 LPA INR 21.9 LPA INR 25.82 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIT Delhi MBA placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The highest package offered during IIT Delhi MBA placements over the past three years is presented below: Particulars MBA Placement Statistics (2021) MBA Placement Statistics (2022) MBA Placement Statistics (2023) the highest package INR 33.8 LPA INR 36.7 LPA INR 41.13 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the placement rate recorded during IIT Delhi MBA placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi has recorded 100% placements for its MBA programme in 2023. Earlier, the placement rate recorded during IIT Delhi MBA placements over the past two year, i.e. 2022 and 2021 was 100% as well."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are IIT Delhi M.Tech Placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 1,200 offers were made and 1,150 students were placed during the Phase 1 of IIT Delhi placements 2025. Further, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. As per NIRF report 2024, the median package offered during <a href=\"https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/courses/me-mtech-bc\">MTech</a> placements 2023 stood at INR 14 LPA. Further, 308 students were placed and 112 students were selected for higher studies out of total 827 students during MTech placements 2023. Earlier, the median package offered during MTech placements 2022 and 2021 stood at INR 12.5 LPA and INR 15 LPA, respectively. As per NIRF report 2024, the key highlights of IIT Delhi M.Tech placements over the past three years are presented below: Particulars MTech Placement Statistics (2021) MTech Placement Statistics (2022) MTech Placement Statistics (2023) Median package INR 15 LPA INR 12.5 LPA INR 14 LPA Total students 867 813 827 Students placed 379 322 308 Selected for higher studies 240 159 112"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi have a policy of not disclosing higher salary packages offered during placement drives. However, according to a press release released earlier, more than 50 students were offered salary package above INR 1 Crore per Annum during placements 2023."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the median package offered during IIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to Engineering NIRF report 2024, the median package offered during IIT Delhi M.Tech placements over the past three years is presented below: Course Median Package (2021) Median Package (2022) Median Package (2023) MTech INR 15 LPA INR 12.5 LPA INR 14 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many students are placed during IIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to Engineering NIRF report 2024, the number of students placed over the past three years during M.Tech placements is presented below: Particulars MTech Placement Statistics (2021) MTech Placement Statistics (2022) MTech Placement Statistics (2023) Total students 867 813 827 Students placed 379 322 308 Students opted for higher studies 240 159 112"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to media reports, 50 students received domestic offers with package more than INR 1 crore per annum during IIT Delhi placements 2023. Further, the highest international package offered during IIT Delhi placements 2023 stood at INR 2.5 crore per annum. The highest domestic and international package offered during IIT Delhi placements 2023 and 2022 are presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Highest domestic package INR 1.25 crore per annum INR 1 crore per annum Highest international package INR 2 crore per annum INR 2.5 crore per annum"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are the placements at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "At end of IIT Delhi Phase 1 placements 2024-25, a total of 1,200 offers were made and 1,150 students were placed. In addition, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. Earlier, Core (Technical) sector emerged as the top recruiting sector that placed 36.6% of the total students during IIT Delhi placement 2024 followed by IT and Analytics sectors that placed 20.7% and 10.9% of the total students, respectively. The placement rate recorded during IIT Delhi placements 2023 and 2022 stood at 84.94% and 82%, respectively. The key highlights of IIT Delhi placements over the past three years are presenetd below: Particulars Placement Statistics (2023) Placement Statistics (2024) Placement Statistics (2025) Total offers 1300 1050 1200 Students placed 1150 1000 1150 International offers 30 50 50+ Companies visited 500 370 NA Average package INR 21.9 LPA NA NA Median package INR 19.5 LPA NA NA Placement rate 84.94% NA NA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What trends can be observed during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "At end of IIT Delhi Phase 1 placements 2024-25, a total of 1,200 offers were made and 1,150 students were placed. In addition, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. International offers came from more than 15 organisations across multiple global regions. The placement rate recorded during IIT Delhi placements 2023 and 2022 stood at 84.94% and 82%, respectively. The key highlights of IIT Delhi placements over the past three years are presented below: Particulars Placement Statistics (2023) Placement Statistics (2024) Placement Statistics (2025) Total offers 1300 1050 1200 Students placed 1150 1000 1150 International offers 30 50 50+ Companies visited 500 370 NA Average package INR 21.9 LPA NA NA Median package INR 19.5 LPA NA NA Placement rate 84.94% NA NA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the placement percentage recorded during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The course-wise placement percentage recorded over the past two years during IIT Delhi placements 2023 is presented below: Course Placement Percentage (2022) Placement Percentage (2023) BTech 87.69% 90.01% Dual Degree (BTech + MTech) 93.68% 90.2% MTech NA 79.32% MDes NA 84.21% MSR NA 80.95%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the branch-wise placement rate recorded during IIT Delhi BTech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to unofficial sources, the placement rate recorded during IIT Delhi BTech placements 2023 was 90.01%. The branch-wise placement rate recroded during IIT Delhi BTech placements 2023 is presented below: BTech Branch Students Registered (2023) Students Placed (2023) Placement Rate (2023) Biochemical Engineering and Biotechnology 46 38 82.61% Civil Engineering 63 53 84.13% Chemical Engineering 67 61 91.04% Computer Science and Engineering 95 94 98.95% Electrical Engineering 95 92 96.84% Electrical Engineering (Power and Automation) 49 47 95.92% Mechanical Engineering 70 58 82.86% Production and Industrial Engineering 68 62 91.18% Mathematics and Computing 67 65 97.01% Engineering Physics 41 34 82.93% Textile Technology 90 72 80.00%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIT Delhi BTech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi have a policy of not disclosing higher salary packages offered during placement drives. However, according to a press release released earlier, more than 50 students were offered salary package above INR 1 Crore per Annum during placements 2023."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi offer 100% placements for BTech program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to unofficial sources, the placement rate recorded during IIT Delhi BTech placements 2023 was 90.01%."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are the BTech placements at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 1,200 offers were made and 1,150 students were placed during the Phase 1 of IIT Delhi placements 2025. Further, more than 50 international offers were made during IIT Delhi Phase 1 placements 2024-25. According to Engineering NIRF report 2024, the median package offered during BTech placements 2023, 2022 and 2021 stood at INR 20 LPA, INR 20.5 LPA and INR 17.6 LPA, respectively. According to unofficial sources, the placement rate recorded during IIT Delhi BTech placements 2023 was 90.01%. As per unofficial sources and NIRF report 2024, the placement rate recorded and median package offered during BTech placements over the past three years are presented below: Particulars BTech Placement Percentage (2021) BTech Placement Percentage (2022) BTech Placement Percentage (2023) Placement rate NA 87.69% 90.01% Median package INR 17.6 LPA INR 20.5 LPA INR 20 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the IIT Delhi average package offered during the recent placement drive?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi average package is not released. However, as per some unofficial sources, the average package offered during IIT Delhi placements 2023 stood at INR 21.9 LPA. Further, as per IIT Delhi Engineering NIRF 2024, the course-wise median package offered over the past three years are presented below: Course Median Package (2021) Median Package (2022) Median Package (2023) UG 4-year (BTech) INR 17.6 LPA INR 20.5 LPA INR 20 LPA UG 5-year (Dual Degree) INR 22 LPA INR 20 LPA INR 22 LPA PG 2-year (MTech) INR 15 LPA INR 12.5 LPA INR 14 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the median package offered during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to IIT Delhi Engineering NIRF report 2024, the course-wise median package offered during IIT Delhi placements over the past three years are presented below: Course Median Package (2021) Median Package (2022) Median Package (2023) UG 4-year (BTech) INR 17.6 LPA INR 20.5 LPA INR 20 LPA UG 5-year (Dual Degree) INR 22 LPA INR 20 LPA INR 22 LPA PG 2-year (MTech) INR 15 LPA INR 12.5 LPA INR 14 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the overall average salary trends witnessed during IIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi average package data is not released. However, as per some unofficial sources, the average package offered during IIT Delhi placements 2023 stood at INR 21.9 LPA. According to IIT Delhi DMS placement report 2023, the average package offered to MBA students during placements 2023 stood at INR 25.82 LPA."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package offered during IIT Delhi MBA placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered during IIT Delhi MBA placements over the past three years is presented below: Particulars MBA Placement Statistics (2021) MBA Placement Statistics (2022) MBA Placement Statistics (2023) Average package INR 18.5 LPA INR 21.9 LPA INR 25.82 LPA"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/placement",
+                    "name": "placement"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIT Delhi Placements 2025: Average Package, Highest Package, Top Recruiters",
+        "description": "Check IIT Delhi - Indian Institute of Technology Placement details, Average & Highest salary package, Top Companies, Percentage of batch placed and latest placement trends for various courses. Download Brochures & Placement details of IITD.",
+        "dateModified": "2025-02-05T16:27:00+05:30",
+        "datePublished": "2017-08-31T18:25:16+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/placement",
+            "@type": "WebPage",
+            "name": "IIT Delhi - Indian Institute of Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "KrishnenduChatterjee",
+            "url": "https://www.shiksha.com/author/Krishnendu130792"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

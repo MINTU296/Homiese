@@ -1,0 +1,178 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Can a boy and girl share a room in IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, IIT Delhi has separate hostels for Boys and Girls. There are no co-ed hostels. The institute has no tolerance policy for the same. Boys can only visit the girls' hostel visitor’s room and vice-versa. On house days, the institute may allow students to visit other hostels."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is IIT Delhi hostel air-conditioned?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, some of the hostels of IIT Delhi are air-conditioned. However, non-air-conditioned hostels are also available. The hostels are allotted to the students based on availability. Some lecture theatres are also air-conditioned. Apart from this, some common areas on the campus or hostel also have air conditioning or air coolers."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is hostel compulsory at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is voluntary to opt for the hostel facility at IIT Delhi. In fact, if a candidate lives within a 15 km radius of the campus, they won't be allotted a hostel room at all. However, the institute houses 11 boys' hostels and two girls' hostels which is enough to accommodate the willing candidates. IIT Delhi has a technologically advanced campus spread across 325 acres of land. The premier institute has one of the best campuses in India state-of-the-art infrastructure, modern amenities and research laboratories. Currently, the Deemed University has six distinct schools, including Bharti School of Telecommunication Technology & Management, Amar Nath & Shashi Khosla School of Information Technology, Kusuma School of Biological Sciences, School of Artificial Intelligence, School of Public Policy and School of Interdisciplinary Research."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the hostel fee for IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi hostel fee depends upon various factors such as the type of room selected, opted facilities and the course. The hostel fee vary from one course to another. In the following table, course-wise IITD hostel fee is mentioned: MTech/MS(R)/MDes/PhD/MSc/MBA Old Hostels Fees New Hostels Fees Hostel Seat Rent INR 8,600 INR 23,600 One time charges INR 7,000 INR 7,000 Total (per semester) INR 44,600 INR 59,600 Mess Charges* INR 36,000 INR 36,000 Refundable Deposit INR 15,000 INR 15,000 *These charges are subject to revision from time to time."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is the infrastructure of IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The IIT Delhi campus is spread across 325 acres. It is divided into four areas for administrative and logistical purposes. Thus, the campus has a West Campus (hostel area), East campus (residential area), Main Administrative Building and Academic area. IIT Delhi infrastructure advancements and operations are taken care by a dedicated Infrastructure team that works under the administrative unit. In addition, it also keeps coming up with new projects for the advacement of the IIT Delhi infrastructure."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Between IIT Bombay and IIT Delhi, which has better hostel facilities and amenities for BTech students?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Bombay and IIT Delhi are the popular engineering institutes in India. Owning to their reputation, both institutes offer excellent hostel facilities and amenities for their students. However, there are some differences between the two institutes’ hostel facilities and amenities that may be important to consider when making a decision. Candidates can refer to the following table to get an idea regarding the same. College Name Hostel fee No. of Hostels Available IIT Delhi INR 8,000 – INR 23,600 18 IIT Bombay INR 44,200 7 NOTE: The fee is as per past years’ data and unofficial sources. Hence, is indicative."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi provide hostel accommodation to its students?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIT Delhi offers adequate hostel facilities for all students. The hostel at IIT Delhi was built in the 1960s. And, they're managed well to date. The room for the first year's B.Tech is a 3-seater (which was two-seater earlier). In some hostels, there are two-seater rooms too (as there are 13 hostels with different maps and infrastructure). The rooms are less spacious if you and your roommates wish to stay in the room all the time (it doesn't happen though). Below mentioned is a review of the IIT Delhi hostel facilities, as per a recent graduate: \"There are 3 beds on which many people sleep (mostly 5+ at exam times). There are 3 tables, 3 chairs and 2 almirahs with four slots each. There are two LAN ports for 3 people. You manage it as there is a Wi-Fi facility too. Also, in a room, there are two fans, two tube lights and four electricity boards.\""
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/infrastructure",
+                    "name": "Infrastructure"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIT Delhi Infrastructure: Campus, Facilities, Hostel, Library & more @ Shiksha",
+        "description": "Check IIT Delhi Infrastructure details, campus & classroom Reviews and  Facilities available inside & outside the campus. Download Brochure & complete Infrastructure details of IIT Delhi.",
+        "dateModified": "2025-02-11T10:35:00+05:30",
+        "datePublished": "2023-09-08T09:16:29+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/infrastructure",
+            "@type": "WebPage",
+            "name": "IIT Delhi - Indian Institute of Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "RashmiSinha",
+            "url": "https://www.shiksha.com/author/Rashmi163418"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.456521735675093",
+            "reviewCount": "158",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/faculty",
+                    "name": "Faculty"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "IIIT Delhi Faculty: Reviews, Experience, Strength & Teaching methodology",
+        "description": "Check IIIT Delhi Faculty details, experience, reviews, strength, qualification, teaching methodology & current projects running by faculty members of various departments. Download Brochure & Faculty details of IIIT Delhi.",
+        "url": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/faculty",
+        "author": {
+            "@type": "Person"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

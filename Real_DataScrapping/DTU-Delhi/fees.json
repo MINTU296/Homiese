@@ -1,0 +1,145 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the Application fee for BTech at DTU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates seeking admission to BTech are required to apply via the JAC Delhi website. JAC registration is a two-step online process where students have to fill out the online application form and then make the payment of the application fee. Students should note that JAC Delhi allows additional registrations and changes in the course preference before every round. The registration fee is INR 1,500."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fees structure of DTU for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total tuition fee for the full-time BTech programme ranges between INR 6.06 and INR 6.42 lakh while the students who get into this college via Lateral Entry are required to pay a tuition fee of INR 2.97 lakh. Additionally, the total tuition fee for BTech (Evening) programme is INR 4 lakh. This structure of DTU fees for BTech, however, is sourced from unofficial sources. Hence is indicative. For the exact fee, students can reach out to the admission office or visit the official website for details. Additionally, for all BTech courses, aspirants are also required to pay a registration cum counselling fee of INR 1,500 on the official website of JAC Delhi which is non-refundable. When a student receives an admission offer, they are required to pay the admission fee charges (which are adjusted in the total fee) to confirm their seat."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the fee refund rules of DTU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates who cancel the enrolment after paying the tuition fee before the semester has started. In that case, DTU will refund the tuition fee. Further, if candidate withdrawl their enrolment after paying the tuition fee, and the semester has started. In that case, DTU will not refund the tuition fee except in cases of exceptional unforeseen circumstances mentioned below: failure to meet the admission requirements lack of residence permit, e.g., if SIRI rejects your application for a residence permit pregnancy Each case will be treated individually. The candidate who belongs to these case are required to submit written documentation before reimbursement can take place. When applying for a refund, candidates are required to enter full name, CPR (if relevant), reasons, and documentation for cancelling your studies. Candidates must also provide their relevant bank details (account number, SWIFT/IBAN codes) for this purpose."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is there any online fee payment portal at DTU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Delhi Technological University has an online fee payment portal. The university offers one platform for candidates to submit any fees such as course fee, application fees and others. To access the portal, candidates need to visit the official website of the university and click on the online fee payment tab. Here, students can choose the courses they want to enroll in and proceed with the payment. It will redirect candidates to a payment gateway, where they can pay the fees using a debit card, credit card, net banking, etc."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fees structure of DTU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tabulated below are the fees for all the courses offered at Delhi Technological University, DTU: Courses Total tuition Fees MBA/PGDM INR 2.9 lakh B.Des INR 6.4 lakh BE INR 4.3 lakh BTech INR3 Lacs - INR 6.4 lakh MDes INR 1.2 lakh - INR 3.3 lakh MSc INR 36,000 BA INR 1.8 lakh BBA INR 1.8 lakh MDes INR 2.9 lakh MBA INR 3.8 lakh NOTE: This fee and fee-breakup available is sourced from unofficial sources. Hence, is indicative."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920",
+                    "name": "DTU"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920/fees",
+                    "name": "fees"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "DTU Fees 2025: Admission, Hostel & all Courses Fee Structure",
+        "description": "Get DTU fee structure along with hostel, admission, transport, library & other applicable fees! Download brochure and check yearly and complete fees of DTU for various courses & activities at Shiksha",
+        "dateModified": "2025-02-27T14:19:00+05:30",
+        "datePublished": "2025-02-27T14:19:32+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920/fees",
+            "@type": "WebPage",
+            "name": "DTU - Delhi Technological University"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "PoojaSharma",
+            "url": "https://www.shiksha.com/author/pooja278128"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1569306404phpbokZti.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

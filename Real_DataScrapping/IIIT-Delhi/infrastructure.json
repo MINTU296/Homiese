@@ -1,0 +1,138 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.456521735675093",
+            "reviewCount": "158",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How is the hostel fee of IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The hostel fee for IIIT Delhi varies depending on the type of accommodation and the number of occupants. The following are the hostel feels for the academic year 2023-2024: Single occupancy: INR 68,000 per semester Twin occupancy: INR 58,000 per semester Triple occupancy: INR 50,000 per semester The hostel fee includes the following: Accommodation: The hostel fee includes accommodation in a single, twin, or triple room. Mess charges: The hostel fee includes mess charges for breakfast, lunch, and dinner. Utilities: The hostel fee includes charges for electricity, water, and internet. Other charges: The hostel fee includes charges for security, maintenance, and laundry. The hostel fee is payable in two installments, one at the beginning of the semester and the other at the end of the semester."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is the infrastructure of IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi has a state-of-the-art infrastructure that is designed to provide students with a conducive environment for learning and research. The campus is spread over 100 acres and it has all the facilities that students need, including: Academic buildings: The institute has a number of academic buildings that house classrooms, laboratories, and libraries. Hostels: IIIT Delhi has separate hostels for boys and girls. The hostels are well-furnished and they have all the amenities that students need, including Wi-Fi, laundry facilities, and mess facilities. Canteens: There are a number of canteens on campus that serve a variety of food options. Sports facilities: IIIT Delhi has a number of sports facilities, including a swimming pool, a gymnasium, a football field, a cricket ground, and a tennis court. Library: The library has a collection of over 100,000 books and journals."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/infrastructure",
+                    "name": "Infrastructure"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIIT Delhi Infrastructure: Details, Reviews, Facilities",
+        "description": "Check IIIT Delhi Infrastructure details, campus & classroom Reviews and  Facilities available inside & outside the campus. Download Brochure & complete Infrastructure details of IIIT Delhi.",
+        "dateModified": "2024-08-08T13:14:00+05:30",
+        "datePublished": "2024-02-27T12:36:15+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/infrastructure",
+            "@type": "WebPage",
+            "name": "IIIT Delhi - Indraprastha Institute of Information Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "NehaSinha",
+            "url": "https://www.shiksha.com/author/Neha67510"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi, Okhla",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.456521735675093",
+            "reviewCount": "158",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is IIIT Delhi good for placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIIT Delhi provides good placements to its students. The key highlights of IIIT Delhi placements 2024 as compared with 2023 and 2022 are presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) the highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA the highest international package INR 183.94 LPA INR 51.30 LPA INR 109 LPA Average package INR 19.76 LPA INR 23.65 LPA INR 20.65 LPA Total offers 730 (7 international offers) 762 (2 international) 719 (12 international offers) Companies visited 140 156 167 Placement rate 98.10% 96.92% 90.99% Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIIT Delhi provide 100% placements for BTech program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The branch-wise placement rate recorded over the past three years during IIIT Delhi BTech placements is presented below: BTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.36% 95.59% ECE 98.41% 94.29% 82.26% CSAM 100% 98.44% 96.92% CSD 93.62% 100% 91.89% CSSS 100% 90.63% 84.09% CSB 100% 97.67% 89.74% CSAI NA 100% 100% Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is the placement for CSE at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of CSE placements at IIIT Delhi over the past three years are presented below: BTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.36% 95.59% MTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.56% 96.4% Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How good are the BTech placements at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIIT Delhi BTech placements over the past three years are presented below: Particulars BTech Placement Statistics (2022) BTech Placement Statistics (2023) BTech Placement Statistics (2024) the highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Average package INR 20.86 LPA INR 25.39 LPA INR 22.04 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIIT Delhi provide 100% placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The placement rate recorded during IIIT Delhi placement 2024 was 90.99%. Further, the placement rate recorded over the past three years during IIIT Delhi placements is presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Total offers 730 (7 international offers) 762 (2 international) 719 (12 international offers) Companies visited 140 156 167 Placement rate 98.10% 96.92% 90.99% Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are the IIIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIIT Delhi placements 2024 as compared with 2023 and 2022 are presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Highest international package INR 183.94 LPA INR 51.30 LPA INR 109 LPA Average package INR 19.76 LPA INR 23.65 LPA INR 20.65 LPA Total offers 730 (7 international offers) 762 (2 international) 719 (12 international offers) Companies visited 140 156 167 Placement rate 98.10% 96.92% 90.99% Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many offers are made during IIIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A total of 719 offers were made out of which 12 were international offers during IIIT Delhi placements 2024. The offers made over the past three years during IIIT Delhi placements is presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Total offers 730 762 719 International offers 7 2 12 Companies visited 140 156 167 Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The highest domestic and international package offered during IIIT Delhi placements over the past three years are presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Highest international package INR 183.94 LPA INR 51.30 LPA INR 109 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIIT Delhi BTech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The highest package offered during IIIT Delhi BTech placements over the past three years is presented below: Particulars BTech Placement Statistics (2022) BTech Placement Statistics (2023) BTech Placement Statistics (2024) the highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during IIIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The highest package offered during IIIT Delhi M.Tech placements over the past three years is presented below: Particulars MTech Placement Statistics (2022) MTech Placement Statistics (2023) MTech Placement Statistics (2024) the highest domestic package INR 29 LPA INR 51.03 LPA INR 34.62 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the expected placement percentage at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The placement rate recorded over the past three years during IIIT Delhi placements is presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Placement rate 98.10% 96.92% 90.99% Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the placement rate recorded during IIIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The branch-wise placement rate recorded over the past three years during IIIT Delhi MTech placements is presented below: MTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.56% 96.4% ECE 90.57% 97.06% 90.74% CB 87.5% 71.43% 50% Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are IIIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIIT Delhi MTech placements over the past three years are presented below: Particulars MTech Placement Statistics (2022) MTech Placement Statistics (2023) MTech Placement Statistics (2024) Highest domestic package INR 29 LPA INR 51.03 LPA INR 34.62 LPA Average package INR 17.41 LPA INR 20.51 LPA INR 17.75 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the success rate of campus placements at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The placement rate recorded during IIIT Delhi placement 2024 was 90.99%. Further, a total of 719 offers were made to 590 eligible students during IIIT Delhi placement 2024. The key highlights of IIITD placements 2024 as compared with 2023 and 2022 are presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Highest international package INR 183.94 LPA INR 51.30 LPA INR 109 LPA Average package INR 19.76 LPA INR 23.65 LPA INR 20.65 LPA Total offers 730 (7 international offers) 762 (2 international) 719 (12 international offers) Companies visited 140 156 167 Placement rate 98.10% 96.92% 90.99% Eligible students 525 617 590 Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which stream provides best placement at IIIT Delhi for BTech program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The branch-wise placement rate recorded during IIIT Delhi BTech placements 2024 as compared with 2023 and 2022 are presented below: BTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.36% 95.59% ECE 98.41% 94.29% 82.26% CSAM 100% 98.44% 96.92% CSD 93.62% 100% 91.89% CSSS 100% 90.63% 84.09% CSB 100% 97.67% 89.74% CSAI NA 100% 100% Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the placement opportunities provided for BTech CSE at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The placement rate recorded during BTech CSE placements 2024 as compared with 2023 and 2022 is presented below: BTech Branch Placement Rate (2022) Placement Rate (2023) Placement Rate (2024) CSE 100% 98.36% 95.59% Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "After doing BTech course from IIIT Delhi where would I be placed?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi is one of the leading Engineering institutes in India. BTech graduates of IIIT Delhi are largely placed in Core Engineering, IT, ITES, and Technology sectors. The leading recruiters that visited the campus in recent past include Google, Microsoft, Oracle and Goldman Sachs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIIT Delhi offer good placements for BTech program?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIIT Delhi offers good placements for BTech program. The key highlights of BTech placements over the past three years are presented below: Particulars BTech Placement Statistics (2022) BTech Placement Statistics (2023) BTech Placement Statistics (2024) Highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Average package INR 20.86 LPA INR 25.39 LPA INR 22.04 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are placements for BTech in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIIT Delhi BTech placements over the past three years are presented below: Particulars BTech Placement Statistics (2022) BTech Placement Statistics (2023) BTech Placement Statistics (2024) Highest domestic package INR 47 LPA INR 51.03 LPA INR 49 LPA Average package INR 20.86 LPA INR 25.39 LPA INR 22.04 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are IIIT Delhi internships?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The key highlights of IIIT Delhi internships 2024-2025 are presented below: Particulars Internship Statistics 2024 / 2025 Highest domestic stipend INR 1.5 lakh Highest international stipend INR 4.93 lakh Overall average stipend (2024 batch) INR 40,000 Overall average stipend (2025 batch) INR 97,000 Total offers 261"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package offered during IIIT Delhi BTech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered over the past three years during IIIT Delhi BTech placements is presented below: Particulars BTech Placement Statistics (2022) BTech Placement Statistics (2023) BTech Placement Statistics (2024) Average package INR 20.86 LPA INR 25.39 LPA INR 22.04 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package offered during IIIT Delhi M.Tech placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered over the past three years during IIIT Delhi M.Tech placements is presented below: Particulars MTech Placement Statistics (2022) MTech Placement Statistics (2023) MTech Placement Statistics (2024) Average package INR 17.41 LPA INR 20.51 LPA INR 17.75 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package offered during IIIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered over the past three years during IIIT Delhi placements is presented below: Particulars Placement Statistics (2022) Placement Statistics (2023) Placement Statistics (2024) Average package INR 19.76 LPA INR 23.65 LPA INR 20.65 LPA Note: Placement data 2024 is updated till Oct 8, 2024."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who are the top recruiters during IIIT Delhi placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The list of top recruiters during IIIT Delhi placements in recent past is presented below: IIIT Delhi Top Recruiters Google BMW Oracle DE Shaw & Co Goldman Sachs Amazon Microsoft Samsung Atlassian Ericsson"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Where are IIIT Delhi alumni placed?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to data gathered from unofficial sources, Engineering sector has placed the most no. of IIIT Delhi students. The sector-wise IIIT Delhi alumni placement statistics are presented below: Note: The above-mentioned alumni data is gathered from unofficial sources, hence may vary."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/placement",
+                    "name": "placement"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIIT Delhi Placements 2024: Average Package, Highest Package, Top Recruiters ",
+        "description": "The highest domestic and international package offered during IIIT Delhi placements 2024 stood at INR 49 LPA and INR 109 LPA, respectively. ",
+        "dateModified": "2024-11-20T14:13:00+05:30",
+        "datePublished": "2014-07-25T09:40:02+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/placement",
+            "@type": "WebPage",
+            "name": "IIIT Delhi - Indraprastha Institute of Information Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "KrishnenduChatterjee",
+            "url": "https://www.shiksha.com/author/Krishnendu130792"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

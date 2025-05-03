@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi - Indian Institute of Technology",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/reviews",
+                    "name": "Reviews"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "IIT Delhi Reviews on Placements, Faculty and Facilities",
+        "description": "Read 715 IIT Delhi - Indian Institute of Technology Reviews on Placements, Faculty, Facilities & Infrastructure given by students and alumni across various courses and streams. Download Brochures & Admission details of IITD.",
+        "url": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/reviews"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

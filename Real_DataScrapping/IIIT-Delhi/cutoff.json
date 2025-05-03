@@ -1,0 +1,171 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the cutoff rank for IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Indraprastha Institute of Information Technology Delhi accepts JEE Main scores for admission to BTech courses. IIIT Delhi admission 2023 was concluded after the release of JAC Delhi Round 5 Seat Allotment results. IIIT Delhi JEE Main cutoff 2023 was released for multiple specialisations. To check out the closing cutoff ranks for all the specialisations, candidates can refer to the table given below: JEE Main Last Round Closing Rank (General-All India) Course 2023 B.Tech. in Electronics and Communication Engineering 1014 B.Tech. in Computer Science and Design 810 B.Tech. in Computer Science and Biosciences 950 B.Tech. in Computer Science and Social Science 882 B.Tech. in Electronics and VLSI Engineering 1232"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is IIIT Delhi cutoff for BTech with respect to other colleges?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "JAC Delhi Counselling is conducted for BTech admissions at various colleges including Delhi Technological University (DTU), Indira Gandhi Delhi Technical University for Women (IGDTUW), Indraprastha Institute of Information Technology, Delhi (IIITD), Netaji Subhas University of Technology (NSUT) and Delhi Skill and Entrepreneurship University (DSEU). The table below shows a comparative analysis of JAC Delhi closing ranks for three consecutive years for top colleges offering admission through JAC Delhi, including IIIT Delhi: BTech ECE Top College Comparison – JAC Delhi Closing Ranks Top College 2021 2022 2023 IIIT Delhi 1846 819 1014 NSUT 11189 7814 9867 DESU 26701 16244 23141"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the factors affecting JAC Delhi cut off 2023 at IGDTUW?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The factors that determine the JAC Delhi Counselling cutoff are as follows: Number of aspirants registered The difficulty level of the exam Total number of seats available Total number of applications received for a particular programme The category under which admission is sought"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the JAC Delhi Counselling registration process at IGDTUW?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The JAC Delhi Counselling 2023 process starts with online registration. Mentioned below is the step-wise JAC Delhi Registration process: Step 1: JAC Delhi Counselling Authentication - Candidates have to authenticate themselves using the details like JEE Main 2023 application number, Name as per JEE Main 2023 admit card, Date of birth as per JEE Main application. Once the aforementioned details match successfully, candidates are asked to enter their email id and mobile number. A verification code is sent to the mobile number and thereafter candidates can enter a password of their choice. Candidates have to use the JEE Main application number and password for logging into the JAC Delhi portal whenever needed. Step 2: JAC Delhi Counselling Filling the application form - Once the authentication is done, candidates have to fill in the application form carefully with all details asked. Further candidates are required to upload the scanned documents in the online application form. The scanned documents must be as per the format indicated in the online form. Step 3: JAC Delhi Counselling Payment of the Application Fee - Candidates have to pay the counselling/ application fee. The mode of application fee payment is credit card/ debit card/ net banking. Step 4: JAC Delhi Counselling Form printout - As a final step, candidates must take the printout of the form. This printout is to be submitted to the reporting institute."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "I have 23027 rank in JEE Mains along with 3253 EWS rank. Can I get admission for CSE with bioscience in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As seen last year, IIIT Delhi implemented a bonus system where a certain number of bonus points will be added as per specific achievements to your percentile score of JEE Mains. For getting CSE, bonus points are required as a person with 6000 AIR, and 2 Bonus points got CSE in IIITD while a person with 600 AIR who was getting CSE in IIIT Hyderabad did not get CSE in IIIT Delhi because of no bonus points. (For, e. g. if you get even 99.95 %ile in JEE Mains, a person with 98percentile but with two bonus points will be evaluated at a score of 100 (98 + 2) and will be placed above the 99.95%iler in the merit list)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What rank should I have in JEE Mains to get admission in IIIT, Delhi if I belong to OBC category? I have no quota in Delhi.",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To secure admission to the Indraprastha Institute of Technology Delhi, obtaining a rank between 8604 and 19838 in the JEE Mains examination for the OBC AI category is necessary as per the IIIT Delhi JEE Main cutoff 2024. However, for admission to the top course like Computer Science and Engineering, candidates have to acquire a rank of 8604. Further, it is important to note that the exact cutoff can differ each year due to factors such as the number of candidates, the difficulty level of the exam, and the availability of seats. Check out the specialisations with ranks available in 2024 at IIIT Delhi through JEE Mains exam for the OBC AI category: Course 2024 B.Tech. in Computer Science and Engineering 8604 B.Tech. in Electronics and Communication Engineering 16264 B.Tech. in Computer Science and Applied Mathematics 11497 B.Tech. in Computer Science and Design 11681 B.Tech. in Computer Science and Biosciences 15175 B.Tech. in Computer Science and Social Science 14653 B.Tech. in Computer Science and Artificial Intelligence 8518 B.Tech. in Electronics and VLSI Engineering 19838"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the minimum cutoff for IIIT Delhi BTech in CSE course?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Indraprastha Institute of Technology Delhi JAC Delhi cutoff 2024 was concluded for the Round 1. As per the last round cutoff 2024, the minimum cutoff for IIIT Delhi BTech in CSE was 484 for the General Home State category candidates. However, the lowest last round cutoff at IIIT Delhi is 196 for BTech in Computer Science and Artificial Intelligence. Candidates can refer to the table given below to check out the IIIT Delhi BTech cutoff 2024 for the General Home State category : Course 2024 B.Tech. in Computer Science and Engineering 484 B.Tech. in Electronics and Communication Engineering 2127 B.Tech. in Computer Science and Applied Mathematics 928 B.Tech. in Computer Science and Design 1220 B.Tech. in Computer Science and Biosciences 1898 B.Tech. in Computer Science and Social Science 1653 B.Tech. in Computer Science and Artificial Intelligence 196 B.Tech. in Electronics and VLSI Engineering 2564"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/cutoff",
+                    "name": "Cutoff"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIIT Delhi Cutoff 2025: Check JEE Main Previous Years Cutoff Ranks & Trends",
+        "description": "Check IIIT Delhi - Indraprastha Institute of Information Technology Cutoffs for 2024, 2023, 2022 and latest Cutoff trends for various courses. Download Brochures & Round-wise Cut off details of IIIT-D.",
+        "dateModified": "2024-09-18T08:45:00+05:30",
+        "datePublished": "2014-07-25T09:40:02+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/cutoff",
+            "@type": "WebPage",
+            "name": "IIIT Delhi - Indraprastha Institute of Information Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Yatendra Kumarnull",
+            "url": "https://www.shiksha.com/author/YatendraKumar94720"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

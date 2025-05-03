@@ -1,0 +1,121 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the infrastructure like at Delhi Technological University (DTU) for the different engineering programs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Delhi Technological University (DTU) has a good infrastructure and provides various facilities for students and teachers. Delhi Technological University (DTU) has a big library and for engineering students there are various labs and smart classrooms. Delhi Technological University has conference halls and provides state of the art infrastructural facilities to Engineering students."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the facilities offered by Delhi Technological University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "DTU, originally known as Delhi College of Engineering (DCE), is a famous college with top-notch facilities and services located on a vast 164-acre campus. There is a library which is extensively digitised and offers online access to many databases and periodicals. With facilities including football, cricket, hockey, and tennis fields, basketball courts, and a gymnasium, DTU's expansive Sports Complex is a hive of activity."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920",
+                    "name": "DTU"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920/infrastructure",
+                    "name": "Infrastructure"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "DTU, Delhi Infrastructure: Details, Reviews, Facilities",
+        "description": "Check DTU, Delhi Infrastructure details, campus & classroom Reviews and  Facilities available inside & outside the campus. Download Brochure & complete Infrastructure details of DTU.",
+        "dateModified": "2024-08-01T12:39:00+05:30",
+        "datePublished": "2023-10-18T12:16:33+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920/infrastructure",
+            "@type": "WebPage",
+            "name": "DTU - Delhi Technological University"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "LiyanshaJain",
+            "url": "https://www.shiksha.com/author/Liyansha238964"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1569306404phpbokZti.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

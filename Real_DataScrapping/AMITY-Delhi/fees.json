@@ -1,0 +1,258 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2154",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What are the fee refund rules of Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In Amity University Noida, Application for withdrawal from the course is to be submitted through Amizone. The college not accepts other mode of request. Given below are AUUP refund Guidelines for withdrawal of application: Application withdraws with in 15 days before the academic session starts, candidates will receive a 100% refund of the semester fees and security deposit, with a deduction of processing charge of up to 5% of the fees (maximum Rs. 5000.00). Application withdraws with less than 15 days before the academic session begins, candidates will receive a 90% refund of the semester fees and the Security Deposit. If a student withdraws within 15 days of the academic session starting, they'll get an 80% refund of the semester fees and the Security Deposit. Application withdraws 16-30 days after the academic session begins, candidates receive a 50% refund of semester fees and the Security Deposit. If they withdraw after 30 days, candidates only receive a refund of the Security Deposit."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the hostel withdrawal refund guidelines at Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To withdrawal the application from the hostel, candidates are required to submit their request through Amizone. Hostel fee once paid will not be refunded in case of withdrawal at any point of time. Further, The Security deposits will be refunded after adjustment / clearance of dues, if any like the following : Alumni Life Member Fee @1000/- (Compulsory) IT Damage Charges Admin Damage Charges Central Library Charges Academics (Lab, Department Library/book bank, CRC, etc.) Examination Dues ID Card Charges Rs. 500/- (If not returned) Any other dues (Gate pass Charges/Duplicate ID Card etc.)"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the refund guidelines for scholarship candidates withdrawing their application from Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If a candidate who is offered an Amity scholarship decides to withdraw, they will be treated as a non-scholarship student, and the withdrawal guidelines applicable to non-scholarship students will be followed. Given below table contains withdrwawal guidelines: % of tuition fees paid If Student’s written notice of withdrawal is received: 100% Student withdraws his/ her admission up to 15 days before the commencement of the academic session 90% Student withdraws his/her admission less than 15 days prior to the commencement of the academic session 80% Student withdraws his/her admission up to 15 days post the commencement of the academic session 50% Student withdraws his/her admission between 16-30 days post the commencement of the academic session 0% Student withdraws his/her admission on or post 30 days of commencement of the academic session Refund will be processed on receipt of written request from the student. The refund will be made within 45 to 60 days from the date of receipt of refund application"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the application fee for MBA at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the Amity University fees for MBA programme, candidates have to pay an application fee of INR 1,500 during filling the application fee. Candidates can fetch the application form on the official website of Amity Noida. The form will be filled with the basic details such as educational and personal information. The application amount is a one-time and non-refundable fee."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee for MBA at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers MBA course is variety of specialisations. Those who secure admission to this course must pay Amity University Noida MBA fee at the time of admission. The total amount of Amity Noida MBA fee for both years ranges between INR 6.4 lakh - INR 26.4 lakh. This fee ranges contains the fee for all MBA specialisations. It may include various components including Tuition Fee. Students also have to pay an additional amount of INR 1,500 at the time of registration. The lowest fee range is given for MBA in Agriculture & Food Business and the highest fee is for MBA (General) course. However, this information is sourced from official website/ sanctioning body and is subject to change. Students are advised to visit the official website to know more about Amity Noida MBA fee structure."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University Noida offer scholarships to students?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Amity University Noida offers scholarships to students, but one has to fulfill the eligibility criteria to receive a scholarship from the university. Amity University Noida offers several scholarships to students as financial assistance. Amity University offers scholarships and fast-track admission to students. Some of the scholarships offered by Amity University Noida are scholarships after Class 12, scholarships after graduation, sports scholarships, martyr's scholarships, corporate scholarships, and others."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the provision for the continuation of the scholarship at Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University scholarship is granted on annual basis and continuation in second and further years of the programme is subject to scholarship policy. To continue availing 100% scholarship students must secure position in top 5% of the merit list for the programme. For continuation of 50% scholarship, students will have to secure position in top 10% of the merit list for the programme."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the refund guidelines for scholarship candidates withdrawing their application from Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If a candidate who is offered an Amity scholarship decides to withdraw, they will be treated as a non-scholarship student, and the withdrawal guidelines applicable to non-scholarship students will be followed. Given below table contains withdrwawal guidelines: % of tuition fees paid If Student’s written notice of withdrawal is received: 100% Student withdraws his/ her admission up to 15 days before the commencement of the academic session 90% Student withdraws his/her admission less than 15 days prior to the commencement of the academic session 80% Student withdraws his/her admission up to 15 days post the commencement of the academic session 50% Student withdraws his/her admission between 16-30 days post the commencement of the academic session 0% Student withdraws his/her admission on or post 30 days of commencement of the academic session Refund will be processed on receipt of written request from the student. The refund will be made within 45 to 60 days from the date of receipt of refund application"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What percentage of waiver can I get at Amity Noida based on JEE score as a BTech student?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers BTech students scholarship based on JEE score. A maximum of 1005 waiver is offered to students. Below is the scholarship criteria and fee to be paid after scholarship: JEE Main Percentile First Year Tuition Fee Fee After Scholarship 97-100 INR 7.5 Lacs - INR 26.4 lakh 100% - 0 94-96.9 INR 7.5 Lacs - INR 26.4 lakh 75%- INR 1.87 Lacs -INR 6.60 lakh 90-93.9 INR 7.5 Lacs - INR 26.4 lakh 50%-INR 3.75 Lacs - INR 13.20 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can a BTech student get scholarship with 90% in Class 12 at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, students pursuing BTech programme can get scholarship based on Class 12 score. Students with 90% and above score in Class 12 are eligible for 100% fee waiver. Selected students have to pay the full fee intially. The excess amount accruing due to scholarship is adjusted against payment for semester-2."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the criteria for CUET scholarship at Amity Noida for BTech students?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers scholarship based on CUET and Class 12 score. Students with CUET score can apply for this scholarship. CUET scholarship is valid only for first year and does not continue further. Below is the criteria: Scholarship % Class 12 % CUET Score in % 100% 85% 90% and above 80% 80% 85%-89.99%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Class 12 score required for BBA scholarship at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers scholarship to BBA students based on Class 12 score. Students securing the specified aggregate are eligible for the merit scholarship. Below is the criteria: Scholarship Criteria Scholarship % 95% aggregate and above in (CBSE/ISC) Board of Class 12 100% 90-94.99% aggregate and above in (CBSE/ISC) Board of Class 12 50%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the BBA fee for scholarship students at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Students selected for BBA scholarship get fee waiver. Below is the criteria and fee for BBA scholarship students: Criteria First Year Tuition Fee Fee After Scholarship 95% aggregate and above in CBSE/ ISC Board of Class 12 INR 3.1 Lacs - INR 23.5 lakh 100% - 0 90%-94.99% aggregate in CBSE/ ISC Board of Class 12 INR 3.1 Lacs - INR 23.5 lakh 50%- INR 1.55 Lacs - INR 11.75 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the CUET score required for BBA scholarship at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Students who have passed CUET can apply for BBA scholarship at Amity Noida. The university offers this scholarship based on CUET and Class 12 score of the students. Below is the criteria: Criteria Scholarship % CUET score: 90% and above Class 12%: 85% 100% CUET score: 85%-89.99% Class 12%: 80% 50%"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much MBA fee do I need to pay after getting Amity Noida scholarship?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Students selected for PG scholarship offered at Amity Noida get waiver in fee. Below is the MBA fee after the scholarship: Tuition fee: INR 6.4 Lacs - INR 26.4 lakh Criteria Fee After Scholarship 95% aggregate and above in CBSE/ ISC Board of Class 12 and 80% in graduation 100% - 0 90-94.9% aggregate in CBSE/ ISC Board of Class 12 and 75% in graduation 50%-INR 3.20 Lacs - INR 13.20 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much score in graduation is required for MBA scholarship at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Students need to score 95% aggregate and above in CBSE/ ISC Board of Class 12 and 80% in graduation for 100% waiver. Students who have completed Class 12 with at least 905-94.9% aggregate in CBSE/ ISC Board and 75% in graduation are eligible for 50% scholarship."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How to apply for MBA scholarship at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers limited number of scholarships on first-come-first serve basis to MBA students. Candidates securing the specified percentages need to fill out the Amity application form. In absence of relevant marksheets direct admission and scholarship application is not considered. Final decision of granting scholarship is with the scholarship committee."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/fees",
+                    "name": "fees"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Amity Noida Fees 2025: Admission, Hostel & all Courses Fee Structure",
+        "description": "Get Amity Noida fee structure along with hostel, admission, transport, library & other applicable fees! Download brochure and check yearly and complete fees of Amity Noida for various courses & activities at Shiksha",
+        "dateModified": "2025-02-19T20:40:00+05:30",
+        "datePublished": "2025-02-19T20:40:12+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/amity-university-noida-41334/fees",
+            "@type": "WebPage",
+            "name": "Amity University, Noida"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "HemanshBhardwaj",
+            "url": "https://www.shiksha.com/author/hemansh61671"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

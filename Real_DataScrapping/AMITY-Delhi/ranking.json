@@ -1,0 +1,186 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2155",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the ranking of Amity University, Noida in the world?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida World Ranking given by QS for 2024 is 1001-1200. Out of most of the international ranking bodies, only QS has released rankings for 2024. Some of the other ranking bodies that have ranked Amity University Noida are THE (Times Higher Education), US News Rank (Category), and others. 1001-1200 is fairly a good rank."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the rank of Amity University, Noida in NIRF 2023?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida ranking NIRF 2023 under the Pharmacy category is 21, under the Management category is 28, under the Engineering category is 31, under the University category is 35, under the Research category is 45, and under the Overall category is 57. Hence, Amity University Noida is not only one of the top-ranked universities but is also ranked in almost all the NIRF ranking categories."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity a Tier 3 college?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida is one of the top-ranked private universities in India. Amity University Noida is ranked by top-ranking bodies like NIRF (National Institutional Ranking Framework), IIRF (Indian Institutional Ranking Framework), India Today, and others. QS mentions this university as one of the top leading universities. For Tier 3 college and university details, please visit the official website of the university."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the QS ranking for Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For international research, QS has given Amity an 80.4 score which is fairly good. The below-mentioned table reflects on the QS World Ranking 2024 details: Amity University QS World Ranking 2024 Category 2022 2023 2024 Asian University Rankings - Southern Asia N/A 33 To be released QS Asia University Ranking 218 200 N/A WUR Ranking By Subject: Pharmacy & Pharmacology 301-350 201-250 N/A Top Global Universities 1001-1200 1001-1200 1001-1200"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the India Today ranking for Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida has achieved the first position in the India Today ranking for 2023. The below-mentioned is the Amity University Noida India Today Rankings: Amity University Noida India Today 2023 Ranking Category 2021 2022 2023 Top General (Private) Universities in India 1 1 1 Top 20 Emerging Colleges (Law) 10 (Amity Law School, Noida) 11 (Amity Law School, Noida) 10 (Amity Law School, Noida) Top 15 Emerging Colleges (Master of Social Work (MSW) N/A N/A 3 (Amity Institute of Social Sciences)"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the ranking of Amity University, Noida in India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Famous ranking bodies such as India Today, NIRF, Times, Outlook, and others have featured Amity University Noida in their list of top 100 universities. The university is ranked #30 by NIRF in the Engineering category. NIRF has ranked Amity University 21 under the Pharmacy category. The university is also ranked by Outlook-ICARE 2023 under the Private College (North India and NCR) MBA Rankings catgeory."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the Outlook ranking for Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity School of Engineering and Technology has received a 634.47 score in 2023 which is quite good. Amity University is also ranked among the top 5 Private Fashion Design Colleges in India by Outlook-ICARE Rankings 2022. The university is ranked 6 by Outlook-ICARE 2023 under the Top 160 Private Engineering Institutes category."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which is the best university in terms of ranking- Amity Noida or SRM University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to the international ranking body like THE World Ranking 2023, Amity Noida is ranked 1001 - 1200. Whereas, SRM University is ranked 1201 - 1500. Hence, both the universities are good. Which one is best depends on various other factors like infrastructure, placements, scholarships, and various other criteria."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/ranking",
+                    "name": "ranking"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Amity University Noida Ranking 2024: NIRF, India Today, Outlook, QS, Times Higher Education, Times, The Week, US News",
+        "description": "Know Amity Noida India & Worldwide ranking by NIRF, QS, Outlook, Times Higher Education, India today and other ranking bodies! Download brochure and check past years' ranking trends of Amity Noida @ Shiksha",
+        "dateModified": "2024-07-23T14:59:00+05:30",
+        "datePublished": "2024-07-23T12:35:52+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/amity-university-noida-41334/ranking",
+            "@type": "WebPage",
+            "name": "Amity University, Noida"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "LiyanshaJain",
+            "url": "https://www.shiksha.com/author/Liyansha238964"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

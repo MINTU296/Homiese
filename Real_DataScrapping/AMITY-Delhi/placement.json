@@ -1,0 +1,194 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2154",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How is Amity University, Noida in terms of placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University offers decent annual placements for various courses like BTech, M.Tech and MBA, LLB, etc. In 2023, the participating recruiters presented over 11,000 job offers to the students of the University. The Amity University the highest package offered during the 2023 placement drive stood at INR 61.75 LPA. The key highlights of Amity University Noida placements for the Class of 2023 are tabulated below: Particulars Placement Statistics (2023) the highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Where do Amity University alumni work?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per unofficial sources, Amity University Noida alumni are working in leading national and multinational companies such as Microsoft, Google, Amazon, Oracle, TCS, and brightening up the name of Amity University globally. They are majorly involved in the Engineering sector. The sector-wise distribution of Amity University Noida alumni is presented in the below pie-chart:"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University have good placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University offers decent annual placements for various courses like BTech, M.Tech and MBA, LLB, etc. In 2023, the participating recruiters presented over 11,000 job offers to the students of the University. The Amity University the highest package offered during the 2023 placement drive stood at INR 61.75 LPA. The key highlights of Amity University Noida placements for the Class of 2023 are tabulated below: Particulars Placement Statistics (2023) the highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during the recent Amity University placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the latest media reports, the Amity University highest package offered during the 2023 placement drive 2023 stood at INR 61.75 LPA. Earlier, the Amity University highest package offered during Amity University placements 2022 stood at INR 58 LPA. Thus, a rise of over 6% in the highest package was observed in 2023 when compared with 2022. For more clarity, check out the graph below: The Amity University highest package offered to the Class of 2022 and 2023 are also tabulated below: Particulars Placement Statistics (2022) Placement Statistics (2023) Highest package (overall) INR 58 LPA INR 61.75 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University Noida provide 100% placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida has a good record of placements for courses like MBA, BTech, BCA, MCA, etc. In 2023, the participating recruiters presented over 11,000 job offers to the students of various courses of the University. The Amity University highest package offered during the 2023 placement drive stood at INR 61.75 LPA. The key highlights of Amity University Noida placements for the Class of 2023 are tabulated below: Particulars Placement Statistics (2023) Highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many offers were made in the recent Amity University Noida placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the media reports, a total of 1,050 recruiters participated in the placement process 2023 and presented over 11,000 job offers to the students of the batch 2023. Earlier, the participating recruiters offered 13,000 jobs to the students of the batch 2022. The total number of offers provided to the Class of 2022 and 2023 are also tabulated below: Particulars Placement Statistics (2022) Placement Statistics (2023) Total offers 13,000 11,000+"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many recruiters participated during the recent Amity University Noida placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The final placement report of Amity University for the Class of 2023 is yet to be released. However, as per the media reports, a total of 1,050 recruiters participated during the 2023 placement drive. Earlier, over 1,000 recruiters participated in the placement process 2022. The total number of recruiters participated during the 2022 and 2023 placement drives are also tabulated below: Particulars Placement Statistics (2022) Placement Statistics (2023) Total recruiters 1,000+ 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are the MBA placements at Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University, Noida offers good placement for its MBA course annually. The Amity University MBA average package along with other Amity University MBA placements details are yet to be released on the official website. Meanwhile, check out the key highlights of Amity University, Noida placements for the overall Class of 2023 in the table below: Particulars Placement Statistics (2023) Highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who are the top recruiters of Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Various popular recruiters participated every year in the placement process at Amity University Noida. The list of top recruiters who participated in 2022 placements are presented in the table below: Amity University Noida Top Recruiters Amazon Microsoft MTX Flipkart Airtel Adobe Capgemini Accenture Cognizant"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/placement",
+                    "name": "placement"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Amity University Noida Placements 2023: Highest Package INR 61.75 LPA, Average Package, Top Companies",
+        "description": "The highest package offered during Amity Noida placements in 2023 stood at INR 61.75 LPA. Further, 1,050 recruiters participated in the placement process of 2023 at Amity University and presented over 11,000 job offers to the Class of 2023.",
+        "dateModified": "2025-03-17T14:24:00+05:30",
+        "datePublished": "2014-07-21T17:20:04+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/amity-university-noida-41334/placement",
+            "@type": "WebPage",
+            "name": "Amity University, Noida"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "BhumikaYadav",
+            "url": "https://www.shiksha.com/author/Bhumika1702765806"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

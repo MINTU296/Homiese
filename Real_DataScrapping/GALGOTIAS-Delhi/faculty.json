@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How is the faculty at Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Galgotias University has world-class faculty members. The faculty members are the finest academicians from the USA, Europe, and Asia. The faculty members bring not only their immense academic weight to the campus; they also bring in their deep knowledge of the finest pedagogies, education processes, and methodologies, experience in research, and an easy familiarity with the entire ethos of end-to-end industry integration into education."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/greater-noida",
+                    "name": "Colleges in Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105",
+                    "name": "Galgotias University Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/faculty",
+                    "name": "Faculty"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Galgotias University Greater Noida Faculty: Reviews, Experience, Strength & Teaching methodology",
+        "description": "Check Galgotias University Greater Noida Faculty details, experience, reviews, strength, qualification, teaching methodology & current projects running by faculty members of various departments. Download Brochure & Faculty details of Galgotias University Greater Noida.",
+        "url": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/faculty",
+        "author": {
+            "@type": "Person",
+            "name": "BhavanaPandey",
+            "url": "https://www.shiksha.com/author/Bhavana277593"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

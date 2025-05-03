@@ -1,0 +1,532 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2155",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Does Amity University Noida have entrance exam?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, Amity University Noida does not conduct any entrance exam for admissions in 2025. Admission to most of the UG and PG courses at Amity University Noida is merit-based. Students just need to fulfil the minimum eligibility and direct admission is given to them based on their merit performance in the previous qualifying exam. For courses such as MBA, Amity accepts a valid score of CAT/ MAT/ XAT/ CMAT/ GMAT/ NMAT entrance exams, where the weightage of each exam is considered differently."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Are CAT, CMAT, etc. mandatory for admission to Amity University for MBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, CAT CMAT etc. are mandatory for admission in Amity University for MBA. For MBA admissions, minimum aggregate of 50 percent marks is required. Candidates must have a valid score in any national level entrance test, that is, MAT 650, GMAT 500, CMAT 200, CAT-XAT-85 and NMAT 60. If the applicant has not appeared for any of the above - mentioned examinations, Amity University conducts its entrance test for Amity University MBA Admissions."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get admission in Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Amity University Noida course admissions to most of its courses are based on the merit performance of candidates in their previous qualifying exams. There is no need to qualify for any particular entrance exams for courses from the streams of Humanities, Science, Commerce, management and Engineering such as BA, BCA, BBA, BA LLB, MCA, or BTech. Direct admission is offered to all of these courses. The admission process for direct admission is inclusive of the merit score and performance of candidates in the personal interview round."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the course duration of LLM in Amity Noida? What is the fee structure of the same?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The course duration of LL. M. in Amity Noida is one year. The fee structure for the LL. M. programme at Amity Noida is as follows: * *General:* INR 1,64,000 * *Taxation:* INR 1,74,000 * *Intellectual Property Law:* INR 1,84,000 The fees for the LL. M. programme are inclusive of tuition fees, library fees, and examination fees. However, they do not include hostel fees, mess fees, or other incidental expenses. The fees for the LL. M. programme can be paid in two installments. The first installment is due at the time of admission and the second installment is due at the end of the first semester. The LL. M. programme at Amity Noida is a full-time programme and students are required to attend classes for a minimum of 12 hours per week. The programme also includes a research component and students are required to submit a dissertation at the end of the programme. The LL. M. programme at Amity Noida is a highly competitive programme and admission is based on merit. Students are required to have a minimum of 50% marks in their LL.B. Degree and they are also required to take an entrance exam. The LL. M. programme at Amity Noida offers students the opportunity to specialize in a particular area of law and to gain advanced knowledge and skills in that area. The programme also prepares students for a career in law and for further studies in law. Here are some additional details about the fees structure for the LL. M. programme at Amity Noida: * The fees for the LL. M. programme are subject to change. * The fees for the LL. M. programme may be waived or reduced for students who qualify for financial assistance. * Students who are unable to pay the fees for the LL. M. programme may be eligible for a payment plan. If you are interested in applying for the LL. M. programme at Amity Noida, you can find more information on the college's website. The application process usually opens in the month of February."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get direct admission in Amity University for BA LLB?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, direct admission is possible for BA LLB course at Amity University Noida. Candidates who secured a good rank/ scores in CLAT will be offered direct admission to the course. However, candidates can also apply directly based on their Class 12 scores. The university will shortlist candidates as per their application and merit based of previous education. Futher, the shortlisted candidates will be selected based on their PI scores."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get direct admission to Amity University Noida for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, direct admission to Amity University BTech course is possible. At Amity University Noida, there are two ways to get admission to BTech course. Candidates can apply via any of the admission process as per their choice. The selection process is common for all the BTech specialisations. Find below both admission process for Amity University Noida BTech admissions: Admission Process (1): As per this process, admissions to BTech course are offered based on the previous merit of candidates obtained in their last qualifying of Class 12. For the final selection, the university conducts a PI round, which is mandatory to qualify for every aspirant. Admission Process (2)*: In the second admission process, the university offers direct admission to candidates who scored a valid percentile in JEE Main. These candidates are exempted from the steps of \"Admission Process (1)\". Further, scholarships of upto 100% are also offered to JEE Main qualifiers. *Admission via this process is only given on a few seats. The admission will be offered on first come first basis."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee for MBA at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida offers MBA course is variety of specialisations. Those who secure admission to this course must pay Amity University Noida MBA fee at the time of admission. The total amount of Amity Noida MBA fee for both years ranges between INR 6.4 lakh - INR 26.4 lakh. This fee ranges contains the fee for all MBA specialisations. It may include various components including Tuition Fee. Students also have to pay an additional amount of INR 1,500 at the time of registration. The lowest fee range is given for MBA in Agriculture & Food Business and the highest fee is for MBA (General) course. However, this information is sourced from official website/ sanctioning body and is subject to change. Students are advised to visit the official website to know more about Amity Noida MBA fee structure."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University's admission process includes six important steps from the availability of the application form to receiving the admission offer letter. Candidates seeking admission to Amity Noida must visit the official website of the University to register themselves. The step-wise Amity University Noida admission process 2025 is given below: Amity University Application Process 2025: Amity Noida's application process is the same for all courses and students can fill out the form online from the official website. If candidates wish to apply for more than one programme, they need to fill out a separate form for each course by paying an application fee of INR 1,500 each. If you are a new user, click on 'Apply Fresh' to register yourself. In case, you have already registered yourself, you can complete your application by clicking on 'Continue Partially Filled Form'. Selection of the Program & Filling out the Application Form: In order to choose the right course, Amity Noida has developed a Career Aptitude Test, which will help the aspirants in choosing a course of their choice. After selecting a course, candidates can start filling out the application form. Fill out the application form with all the mandatory details and upload all the required documents to complete the application process. Availability of Information on the Admission Microsite: In the next step, aspirants can get access to the Amity University admission microsite to receive all kinds of admission-related updates. Candidates can log in to the admission microsite by using their form no and password. Selection Process: Amity Noida's selection process is based on the performance of candidates in the Personal Interview round, which is mandatory to qualify to get admission to every course. Admission Offer Letter: The information with respect to selection will be communicated on the admission microsite as well as via Email and SMS. Selected candidates will get an admission letter along with important information such as semester fee, classes commencement date, time, venue of the course, allotment of a hostel (If applied), scholarship (If any) and the list of documents required at the time of joining."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Maths compulsory for BCom (Hons) at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, Maths is not compulsory for admission to Amity Noida BCom (Hons) course. However, for BCom (Hons) admission candidates must have secured Class 12 with Maths with an aggregate of 70% (65% for Sponsored category students)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to Amity Noida for BBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In order to get admission to Amity Noida, there is no entrance exam required. Amity University BBA admission is merit-based, where students are selected based on their performance in the previous qualifying exam. Candidates who pass Class 12 in any stream are likely to get admission to Amity Noida BBA course. In the recent years, PI round has been cancelled for BBA course and instead of this, candidates are required to submit a video response. In this round candidates need to record and submit their answers comprising queries related to an Introductory question, a question to test English Language Skills and a subject-specific questions in a video format. Candidates will be evaluated based on their responses submitted in a video format on the official website of Amity Noida."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University provide B.Com Honors? What is its fees and does it have transportation facilities?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "AMITY University Noida is offering B.Com (Hons). The eligibility criteria and other details are given below. Eligibility : 70% in 10+2 for Non-sponsored & 65% for Sponsored category. Aggregate percentage will be calculated on the basis of marks scored in English and three academic subjects (excluding second language, Physical Education, Fine Arts, Performing Arts or any other Vocational /Non-Written subjects). Selection criteria : Selection Process is based on video responses to the questions posted through the VIDEO LINK available on Admission Microsite. programme Fee : a) 1st Year Non Sponsored Semester Fee (Rs. in Lacs) 1.115 b) 1st Year Sponsored Semester Fee (Rs. in Lacs) 1.675 Transport facilities : Amity University Greater Noida has an excellent transport facility for faculty, staff & students. Amity buses are operated in two different routes; one from Delhi and other from Ghaziabad."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the expected NMAT cutoff for Amity University MBA admissions?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University admission 2024 to MBA course is based on MAT, XAT, CAT, NMAT, CMAT, GMAT and CUET. The 2024 CAT cutoff is yet to be released for admission to Amity University. The expected NMAT cutoff 2024 based on previous years' cutoff data will be estimated nearly around 140 to 150 in the upcoming admission session 2025. Candidates seeking admission to Amity University through NMAT can check previous year scores in the table below: Amity Business School : NMAT Cutoffs (GN-AI) Course 2023 MBA Retail Management 140 Marketing and Sales 140 MBA Finance 140 Human Resources 140 Telecom Management 140 International Business 140 International Business with AI 140 MBA in Construction Project Management 140 MBA in Logistics and Supply Chain Management 140 MBA in Competitive Intelligence and Strategic Management 140 MBA in Entrepreneurship 140 Supply Chain Analytics and Management 140"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How to apply for BA at Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To apply for Amity University Noida BA admission 2025, candidates can apply for the course of their choice in an online mode. They need to visit the official webiste of Amity Noida and complete the application process. The step-wise application process for Amity Noida BA admission 2025 is mentioned below: Step 1: Visit the official website of Amity University, Noida. Step 2: Click on ‘Online Application Form’. Step 3: Click on ‘New Application’ and register with the basic details. Step 4: Login with the credentials and fill the application form. Step 5: Upload the documents and pay the application amount of INR 1,500. Step 6: Submit and print the application form for further reference."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the minimum eligibility criteria for Amity University BCom (Hons) course?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For Amity Noida BCom (Hons) course, candidates must have passed Class 12 with a minimum aggregate of 70% (65% for Sponsored category students)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University Noida provide 100% placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida has a good record of placements for courses like MBA, BTech, BCA, MCA, etc. In 2023, the participating recruiters presented over 11,000 job offers to the students of various courses of the University. The Amity University highest package offered during the 2023 placement drive stood at INR 61.75 LPA. The key highlights of Amity University Noida placements for the Class of 2023 are tabulated below: Particulars Placement Statistics (2023) Highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the eligibility criteria for BCA in Amity University, Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To apply for a three-year BCA course at Amity University Noida, there is minimum eligibility criteria that need to be fulfilled before applying for this course. To get admission to BCA course, aspirants must pass Class 12 with 50% in Maths/ Computer Science/ Informatics Practice/ Computer Applications/ Multimedia & Web Technology/ Data Management Application/ Web Application/ IT/ Artificial Intelligence from a recognised board. Also, for admission to BCA (Dual Degree) course, the eligibility criteria is the same."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who are the top recruiters of Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Various popular recruiters participated every year in the placement process at Amity University Noida. The list of top recruiters who participated in 2022 placements are presented in the table below: Amity University Noida Top Recruiters Amazon Microsoft MTX Flipkart Airtel Adobe Capgemini Accenture Cognizant"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity University Noida good for BFA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{Source: BFA students & alumni} Based on the reviews and feedback from current students and alumni, here's a summary of the pros and cons: Pros: * Many top recruiting companies visit the campus, such as Adidas, Fitbit, Google, and others. * Around 90% of students get placed after completing the program. * Faculty members are generally knowledgeable and willing to help. * Good infrastructure, including air-conditioned classrooms, a large library, and sports grounds. * Internship opportunities are available, providing hands-on experience in the industry. Cons: * Placement rates vary depending on individual performance, with some students struggling to secure jobs. * Limited availability of specialised equipment, such as canvases, for BFA students. * Some faculty members may lack industry experience or be unfriendly/unhelpful. * Hostel conditions are reported to be subpar, with high charges and restrictive living arrangements. In conclusion, while Amity University Noida has some strengths, such as its strong recruitment network and decent infrastructure, there are also areas where improvement is needed. Prospective students should carefully weigh these factors when deciding whether Amity University Noida is right for their BFA studies."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity University Noida good for B.Des?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{Source: B.Des students & alumni} Based on the reviews and feedback from students and alumni, here's a summary of the pros and cons: Pros: * Interesting and relevant course curriculum that prepares students for the industry * Well-equipped labs and classrooms with modern facilities * Friendly and helpful teachers who are knowledgeable in their respective fields * Opportunities for internships and placements, although limited * Nice campus with good infrastructure and recreational facilities * Availability of scholarships and extracurricular activities Cons: * Limited placement opportunities, especially for certain roles * High fees compared to the number of placements secured * Some teachers may not be experienced or qualified enough * Online classes may not provide the same level of engagement as offline classes * Placement record varies across batches, with some seniors securing good jobs while others struggle Conclusion: While Amity University Noida has its strengths, such as a relevant curriculum and modern facilities, the placement record is a concern. Students and alumni have reported mixed experiences, with some securing good jobs while others struggled to find employment. Therefore, prospective students must weigh the pros and cons carefully before making a decision."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during the recent Amity University placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the latest media reports, the Amity University highest package offered during the 2023 placement drive 2023 stood at INR 61.75 LPA. Earlier, the Amity University highest package offered during Amity University placements 2022 stood at INR 58 LPA. Thus, a rise of over 6% in the highest package was observed in 2023 when compared with 2022. For more clarity, check out the graph below: The Amity University highest package offered to the Class of 2022 and 2023 are also tabulated below: Particulars Placement Statistics (2022) Placement Statistics (2023) Highest package (overall) INR 58 LPA INR 61.75 LPA"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity University Noida good for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida provides BTech in top specialisations of the field such a Aerospace Engineering, Computer Science & Engineering, Bioinformatics, Biotechnology, Civil Engineering, Artificial Intelligence, Avionics, etc. At Amity Noida, students also get access to study international courses such as (3 Continent) Mechanical Engineering, CSE, Electronics and Communication Engineering, Food Technology (International), Electrical & Electronics Engineering - International, etc. The university has been ranked by one of the top-ranking bodies of India, i.e., NIRS, in the list of top 100 Engineering colleges category. The latest ranking trends comparison of Amity University Noida for the Engineering category is given below: Ranking Body 2021 2022 2023 NIRF 31 25 31 Further, the placement records for the year 2023 have been good for Amity University BTech placements. During the placement drive of the year 2023, the top recruiters such as Flipkart, Adobe, Accenture, TCS, etc., visited during the campus placements. The highest package stood at INR 61.75 LPA."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity Noida a good choice?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida is one of the largest private universities in India. The university offers a wide range of undergraduate, postgraduate, and doctoral programs in a variety of disciplines. Amity University Noida is accredited by the National Assessment and Accreditation Council (NAAC) with an 'A' grade. The university is also a member of the Association of Indian Universities (AIU). The university has a good placement record. In 2023, the highest package offered during Amity University Noida placements 2023 stood at INR 61.75 LPA. The university has a good infrastructure. The campus is spread over 250 acres and has well-equipped classrooms, laboratories, and libraries. The faculty members are well-qualified and experienced. They are also committed to providing quality education to students. The university has a good student life. The university has a number of clubs and societies that students can join. The university also organizes a number of events and activities throughout the year. Overall, Amity University Noida is a good choice for students who are looking for a good education in a good environment. The university has a good academic reputation, a good placement record, and a good infrastructure. The faculty members are well-qualified and experienced. The university also has a good student life."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to Amity Noida for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For Amity Noida BTech admission candidates need to apply online. There is no entrance exam required and the selection is purely merit-based. In the very first step of the admission process, candidates are required to fulfil the basic eligibility requirements of the course as per the university's norms. Next, candidates have to submit their marks scored in Class 12 examination based on which candidates will be shortlisted. The final selection is based on Personal Interview round, which is mandatory to qualify in order to get admission. The university also provides a few direct admissions on first come first basis based on a valid score of JEE Main. Such candidates receive scholarships and get exempted from the admission process."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much is the Amity University BCom fees?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity Noida BCom fees will range between INR 7.23 Lacs – INR 13.20 Lacs depending on the course."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is BCom available at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Amity University Noida offers a list of BCom courses at the undergraduate level including BCom, BCom (Hons), BCom (3 Continent), BCom (International), BCom (Honours / Research) and BCom (Hons) Evening courses."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University have good placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University offers decent annual placements for various courses like BTech, M.Tech and MBA, LLB, etc. In 2023, the participating recruiters presented over 11,000 job offers to the students of the University. The Amity University the highest package offered during the 2023 placement drive stood at INR 61.75 LPA. The key highlights of Amity University Noida placements for the Class of 2023 are tabulated below: Particulars Placement Statistics (2023) the highest package INR 61.75 LPA Total offers 11,000+ Total recruiters 1,050"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which course is better at Amity University, Noida: BSc (Hons.) Forensic Science or BSc Agriculture?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "B.Sc AG is best in Amity. B.Sc Agriculture Hons. is an Undergraduate Full-Time 4-Years Amity Institute of Organic Agriculture Institute Undergraduate Course and it is offered by Amity University, Noida. Admission Process: Admission is Based on Subject-Based Written Test and Personal Interview. Eligibility Criteria: A candidate should have passed the 10+2 PCB / PCM / Agriculture with (min. 55%) from any recognized board. Amity University, Noida is really good for the Bachelor of Science(B.Sc) in Agriculture. The infrastructure is one of the best in the country. The department of Agriculture has sufficient classrooms and laboratories including a small farmyard for the conduct of practical experiments."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does Amity University Noida accept CLAT score for BA LLB?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Those who are willing to get admission to this course are not required to appear for any entrance exam. Amity University offers admission to BA LLB course based on merit scores of candidates obtained in the last qualifying exam along with their performance in the Personal Interview (PI) round. However, as per the university's brochure, candidates with a decent CLAT score will be given weightage and offered direct admission to BA LLB. In order to get admission to this course students need to fulfil the minimum eligibility, which is to pass Class 12 with 60% aggregate for the Non-Sponsored category and 55% aggregate for Sponsored category. Get more details about the Amity University Noida BA LLB admission, here."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Amity University Noida good for B.Pharma?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{Source: B.Pharma students & alumni} Here's a summary of the feedback from students and alumni: Placements and Internships: * Almost 95% of students get placed in top pharmaceutical companies like Pfizer, Johnson & Johnson, Himalaya, Cipla, and Sun Pharma. * the highest package offered is INR16 LPA, average package is INR12 LPA, and the lowest package is INR7 LPA. * Majority of students get internships, with many receiving stipends ranging from INR15,000 to INR25,000 per month. * Companies like Quantiles, Sun Pharma, and Akums offer internships to students. Faculty and Curriculum: * Faculty members are well-qualified and experienced, with many holding PhDs from renowned institutions. * Course curriculum is structured to prepare students for industrial situations and meets the requirements of the Pharmacy Council of India (PCI). * Emphasis is laid on practical learning, with hands-on experience in state-of-the-art laboratories. Campus Infrastructure and Facilities: * State-of-the-art infrastructure, including Wi-Fi-enabled classrooms and modernized laboratories. * Excellent library resources, with over 1 Lacs books and digital access to journals and publications. * Well-maintained hostels with amenities like AC and non-AC rooms, mess, and recreational spaces. * Medical facilities, including a dispensary and infirmary, are available on campus. Student Life and Activities: * Vibrant campus life, with numerous cultural and sports events organized throughout the year. * Opportunities to participate in national-level competitions and seminars. * Access to recreational facilities like gyms, yoga centers, and outdoor games. Overall, Amity University Noida seems to offer a great learning experience for B.Pharma students, with strong emphasis on theoretical and practical knowledge, excellent placements, and a vibrant campus culture."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the eligibility criteria to get admission to BTech programmes at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For admission to a four-year BTech course at Amity Noida, candidates have to fulifl the basic eligibility requirements of the course. Admission to BTech course is offered in both Sponsore and Non-Sponsored categories. To apply for BTech, candidates must have passed Class 12 with PCM/ PCB as subjects from a recognised board. Candidates who are applying through Non-Sponsored categories are required to pass Class 12 with mininum 60% aggregate, while for Sponsored category candidates, obtaining minimum 55% aggregate is must."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee for BCA at Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the official website, the Amity University BCA fee 2023 ranges between INR 3.36 Lacs - INR 10.55 Lacs for all the three years of the course. This fee range is inclusive of the fee for BCA (Regular), BCA (Evening) and BCA Dual Degree course. It may include various components including Tuition Fee. Students also have to pay an additonal amount of INR 1,500 at the time of registration. Find below the course-wise bifurcation for Amity BCA fee: Course Name Total Fee BCA INR 6.42 lakh BCA (Evening) INR 3.36 lakh BCA Dual Degree (BCA + MCA) INR 10.55 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the Amity Noida fee for BBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total amount for Amity University BBA fee (Noida campus) for all three years of the course ranges between INR 1.68 lakh- INR 9.81 lakh. This fee range contains the total fee for all BBA specialisations, including BBA (Evening), BBA (International) and BBA (3 Continent) courses. Apart from this, the university also offers a five-year Integrated course of BBA + MBA. Find below the course-wise bifurcation for Amity BBA fee: Course Name Total Fee BBA INR 1.68 lakh- INR 9.81 lakh Integrated BBA (BBA + MBA) INR 2.07 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the cost to study BA at Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida BA admissions are done for both Non-Sponsored categories. The fee may vary for the respective categories. As per the official website, the Amity University fee for BA (Hons)/ BA (General) ranges between INR 1.6 lakh - INR 13.2 lakh for all three-years of the course. It may include various components including Tuition Fees for all BA specialisations, including International and Evening courses. Apart from this fee, candidates also have to pay an additional amount of INR 1,500 at the time of registration. The lowest range of Amity University BA fees is applicable for BA General course and the highest fee is given for BA (Mass Communication - International) and BA (Applied Psychology - International) courses."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the hostel fee at Amity Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hostel fee is one of the main component of Amity Noida total fee structure. Check below the hostel fee for top Amity University courses: Course Name Hostel Fees BA LLB (Hons) INR 4.25 lakh BTech INR 3.40 Lacs - INR 4.25 lakh MBA INR 1.85 lakh BBA INR 2.55 Lacs - INR 3.97 lakh BCA INR 2.55 Lacs - INR 4.25 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee of BA LLB in Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amty Noida offers admission to BA LLB course in Non-Sponsored and Sponsored Categories. Amity Noida BA LLB tuition fee for all the five years of the course is INR 2.07 lakh. As per the unofficial courses, this amount is based on first year/ semester fee. Apart from this, candidates have to pay for the accomodation charges, separately. Additionally, one-time security deposit of INR 20,000 will also be paid at the time of admission."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/courses",
+                    "name": "Courses"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Amity University Noida Courses & Fees 2025: UG, PG, Doctorate, Certificate",
+        "description": "Check 10  courses and their fee details at Amity Noida. Find details of all  UG & PG degree, diploma and certification programs offered by AU along with course Duration, Reviews, Eligibility & Apply Dates",
+        "dateModified": "2025-03-17T22:50:00+05:30",
+        "datePublished": "2024-10-04T15:50:46+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/amity-university-noida-41334/courses",
+            "@type": "WebPage",
+            "name": "Amity University, Noida"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "AnyaSingh",
+            "url": "https://www.shiksha.com/author/Anya60198105"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "ItemList",
+        "name": "Amity University Noida Courses & Fees 2025: UG, PG, Doctorate, Certificate",
+        "description": "Check 10  courses and their fee details at Amity Noida. Find details of all  UG & PG degree, diploma and certification programs offered by AU along with course Duration, Reviews, Eligibility & Apply Dates",
+        "url": "https://www.shiksha.com/university/amity-university-noida-41334/courses",
+        "numberOfItems": "20",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "name": "Master of Business Administration (MBA) at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-business-school-abs-amity-university-noida-36747/course-master-of-business-administration-mba-175653",
+                "position": 1
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Des. in Fashion Design at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-fashion-technology-amity-university-noida-48331/course-b-des-in-fashion-design-247185",
+                "position": 2
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.A. in Journalism and Mass Communication at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-communication-amity-university-noida-1018/course-b-a-in-journalism-and-mass-communication-81837",
+                "position": 3
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Interior Design at Amity Noida",
+                "url": "https://www.shiksha.com/university/amity-university-noida-41334/course-bachelor-of-interior-design-207075",
+                "position": 4
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Electronics and Communication Engineering at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-engineering-and-technology-amity-university-noida-36761/course-b-tech-in-electronics-and-communication-engineering-175647",
+                "position": 5
+            },
+            {
+                "@type": "ListItem",
+                "name": "Master of Business Administration (MBA 3 Continent) at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-international-business-school-aibs-amity-university-noida-45180/course-master-of-business-administration-mba-3-continent-223930",
+                "position": 6
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Automobile Engineering at Amity Noida",
+                "url": "https://www.shiksha.com/university/amity-university-noida-41334/course-b-tech-in-automobile-engineering-175650",
+                "position": 7
+            },
+            {
+                "@type": "ListItem",
+                "name": "BBA in Real Estate and Urban Infrastructure at Amity Noida",
+                "url": "https://www.shiksha.com/college/rics-school-of-built-environment-amity-university-noida-36312/course-bba-in-real-estate-and-urban-infrastructure-167910",
+                "position": 8
+            },
+            {
+                "@type": "ListItem",
+                "name": "BFA in Animation at Amity Noida",
+                "url": "https://www.shiksha.com/university/amity-university-noida-41334/course-bfa-in-animation-207152",
+                "position": 9
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Electrical and Electronics Engineering at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-engineering-and-technology-amity-university-noida-36761/course-b-tech-in-electrical-and-electronics-engineering-175649",
+                "position": 10
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Des. in Fashion Communication at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-fashion-technology-amity-university-noida-48331/course-b-des-in-fashion-communication-247461",
+                "position": 11
+            },
+            {
+                "@type": "ListItem",
+                "name": "MBA in Entrepreneurship at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-business-school-abs-amity-university-noida-36747/course-mba-in-entrepreneurship-175714",
+                "position": 12
+            },
+            {
+                "@type": "ListItem",
+                "name": "MBA in International Business (Evening Shift) at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-international-business-school-aibs-amity-university-noida-45180/course-mba-in-international-business-evening-shift-223932",
+                "position": 13
+            },
+            {
+                "@type": "ListItem",
+                "name": "MBA in Construction Economics and Quantity Surveying at Amity Noida",
+                "url": "https://www.shiksha.com/college/rics-school-of-built-environment-amity-university-noida-36312/course-mba-in-construction-economics-and-quantity-surveying-190674",
+                "position": 14
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Computer Application (BCA) at Amity Noida",
+                "url": "https://www.shiksha.com/university/amity-university-noida-41334/course-bachelor-of-computer-application-bca-232103",
+                "position": 15
+            },
+            {
+                "@type": "ListItem",
+                "name": "MBA in Human Resources at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-business-school-abs-amity-university-noida-36747/course-mba-in-human-resources-175715",
+                "position": 16
+            },
+            {
+                "@type": "ListItem",
+                "name": "M.A. in Journalism and Mass Communication at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-communication-amity-university-noida-1018/course-m-a-in-journalism-and-mass-communication-81838",
+                "position": 17
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Des. in Fashion Design- 3 Continent at Amity Noida",
+                "url": "https://www.shiksha.com/college/amity-school-of-fashion-technology-amity-university-noida-48331/course-b-des-in-fashion-design-3-continent-247462",
+                "position": 18
+            },
+            {
+                "@type": "ListItem",
+                "name": "MBA in Real Estate and Urban Infrastructure at Amity Noida",
+                "url": "https://www.shiksha.com/college/rics-school-of-built-environment-amity-university-noida-36312/course-mba-in-real-estate-and-urban-infrastructure-167918",
+                "position": 19
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Hotel Management (BHM) at Amity Noida",
+                "url": "https://www.shiksha.com/university/amity-university-noida-41334/course-bachelor-of-hotel-management-bhm-207153",
+                "position": 20
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

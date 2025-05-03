@@ -1,0 +1,145 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the fee structure for MBA in Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Galgotias University offers a two-year MBA course under the affiliation of AKTU. The fee structure for an MBA is inclusive of various components. As per the official website, Galgotias University MBA fees range between INR 90,000 - INR 4.8 lakh. This range includes the Tuition Fee for both years. However, this information is sourced from the official website/ sanctioning body and is subject to change. For a detailed Galgotias University MBA fee structure, candidates are advised to visit the official website."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fees of Galgotias University for MCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Galgotias University offers MCA (General) and MCA industry-oriented programmes. The tuition fee for both courses ranges between INR 92,000 - INR 1.84 lakh. Apart from the tuition fee, candidates may also have to pay for the Security Deposit (Refundable) and Hotel Fees (if applicable). However, this information is sourced from official website/ sanctioning body and is subject to change. For a detailed Galgotias University MCA fee structure, candidates are advised to visit the official website."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I check the course fee at Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The university offers one platform for candidates to check any course fees. To access the portal, candidates are required to visit the official website of Galgotias University and click on the fee structure tab. Here, students can choose the courses they want to enroll. It will redirect candidates to course fee structure page. From the redirect page candidates can check the fee for any courses they want to opted for."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is there any online fee payment portal at Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Galgotias University provides an online fee payment portal. The university offers one platform for candidates to submit any course fees. To access the portal, candidates need to visit the official website of university and click on the online fee payment tab. Here, students can choose the courses they want to enroll in and proceed with the payment. It will redirect candidates to a payment gateway, where they can pay the fees using a debit card, credit card, net banking, etc."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fees for the BTech course at Galgotias University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total tuition fee for the BTech course at Galgotias University ranges from INR 1.40 lakh to INR 6 lakh. The duration of the course is between 3-5 years. The university usually conducts GEEE to shortlist candidates for the BTech programme. Candidates who have passed UPSEE/ JEE Main can also apply. Find below the eligibility and selection criteria for BTech courses: Selection criteria: Merit-based Eligibility for BTech/ BTech (Hons): A pass in Class 12 with a minimum of 60% aggregate in Physics/ Chemistry/ Mathematics. Eligibility for BTech in Agriculture Engineering: A pass in Class 12 in PCM/ PCB with at least 60% aggregate."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/greater-noida",
+                    "name": "Colleges in Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105",
+                    "name": "Galgotias University Greater Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/fees",
+                    "name": "fees"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Galgotias University Greater Noida Fees 2025: Admission, Hostel & all Courses Fee Structure",
+        "description": "Get Galgotias University Greater Noida fee structure along with hostel, admission, transport, library & other applicable fees! Download brochure and check yearly and complete fees of Galgotias University Greater Noida for various courses & activities at Shiksha",
+        "dateModified": "2025-03-17T12:25:00+05:30",
+        "datePublished": "2025-03-17T12:25:02+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/galgotias-university-greater-noida-37105/fees",
+            "@type": "WebPage",
+            "name": "Galgotias University"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "LiyanshaJain",
+            "url": "https://www.shiksha.com/author/Liyansha238964"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1569477243php7w52lR.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

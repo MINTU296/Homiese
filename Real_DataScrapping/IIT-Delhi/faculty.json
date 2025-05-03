@@ -1,0 +1,140 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How is the faculty at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi faculty are PhD, degree, and diploma holders. IIT Delhi faculty are well-qualified and are industry experts. Some of the Department of Applied Mechanics faculty members' details are mentioned below: Faculty Name Faculty Details Santosh Kapuria Head, Applied Mechanics Puneet Mahajan PhD (Montana State) TRIPP Chair Professor S.V. Veeravalli PhD (Cornell) Professor"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How have IIT Delhi faculty members contributed to the development of India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi faculty members contribute to India in many ways, including research, education, and leadership roles. IIT Delhi faculty have actively participated in the formation of government committees and helped formulate policies on science, technology, education, and infrastructure. Their deep understanding of technological advancements and their practical application ensures that policies are not only well-informed but also forward-thinking, keeping in mind India's long-term development goals. Many IIT Delhi faculty members have served as advisors to state and central governments, contributing to critical sectors such as defense, healthcare, manufacturing, and education. Their input has resulted in major advancements in public-private partnerships and the creation of frameworks that encourage innovation, entrepreneurship, and technology transfer. The Institute's Innovation and Entrepreneurship Development Centre (IEDC) and Technology Business Incubator (TBI) have supported the commercialization of many research ideas, resulting in the establishment of successful ventures in sectors, such as Healthcare, Agritech, Edtech, and Environmental Sustainability. Professors often collaborate with their students to co-found companies that provide innovative solutions to address challenges in these sectors."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many faculty members are there in the CSE department of IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The exact count of faculty members available in the CSE department of IIT Delhi is not available on the official website; however, going by the faculty profile, the estimated count is over 40, including both male and female members. The IIT Delhi CSE department has a total number of 6 female faculty members, and most of them hold a PhD. The female faculty profile of the CSE department is tabulated below: Faculty Name & Title Academic Qualification Research Area Keerti Choudhary Assistant Professor and TBO Group Faculty Fellow Ph.D., M.Tech (IIT Kanpur) Experimental Turbulence, Tomography, Power Generation Systems and I.C. Engines Maya Ramanath Associate Professor Ph.D. (IISc., Bangalore) Database and Information Retrieval Techniques for Semantic Web Data Management, Information Extraction and Opinion Mining Priyanka Golia Assistant Professor Ph.D. (.National University of Singapore and IITK) Formal Methods and Artificial Intelligence Rijurekha Sen Assistant Professor Ph.D. (IIT Bombay) Mobile and Embedded Systems (Hardware Architecture, OS, Sensing, Efficient Processing, Security), Computational Sustainability Vaishnavi Sundararajan Assistant Professor Ph.D. (Chennai Mathematical Institute) Formal methods, Verification and Security Saroj Kaushik Honorary Professor Department of Computer Science and Engineering School of Engineering (SoE) -"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the salary of an assistant professor at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Regular faculty members of IIT Delhi are entitled to various benefits and incentives, which include on-campus housing, medical assistance, and retirement benefits, among others. An assistant professor commencing at pay level 12 receives a minimum salary of INR 101,500 per month for 12 months each year. An annual increment of 3% is also applicable. All employees of IIT Delhi are entitled to a dearness allowance to offset price increases. This allowance is revised every six months and currently stands at 21% of the basic pay (as of 2021). After completing the 3 years of service as an assistant professor at pay level 12, the member is considered for movement to pay level 13 A1. The annual minimum pay at this level is INR 131,400."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the awards received by the faculty members of IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The faculty members of IIT Delhi have received many awards, including excellence awards, research awards, and fellowships, among others. The details for the same are given below: <!- [if !supportLists]->· Prof. Abhilash Jindal won the Best Community Paper Award for releasing the paper: \"Experience: Developing a Usable Battery Drain Testing and Diagnostic Tool for the Mobile Industry\". <!- [if !supportLists]->· Prof. K.L, a professor at the Department of Mechanical Engineering, has received many awards, including the J.M. Mahajan award, the Prof. P C P Bhat Research Award, and the Lakshmana Gowda Lifetime Achievement Award."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/faculty",
+                    "name": "Faculty"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "IIT Delhi Faculty: Top Courses and the Faculty Behind Them",
+        "description": "Check IIT Delhi Faculty details, experience, reviews, strength, qualification, teaching methodology & current projects running by faculty members of various departments. Download Brochure & Faculty details of IIT Delhi.",
+        "url": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/faculty",
+        "author": {
+            "@type": "Person",
+            "name": "Neha Aroranull",
+            "url": "https://www.shiksha.com/author/NehaArora77140"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

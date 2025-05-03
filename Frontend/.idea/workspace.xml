@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4c0b4ee-2846-434e-ab4c-47b99ee7afe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Backend/controller/profile.controllor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/route/profile.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/profile/updateDetails/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formSchema/updatePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/controller/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/controller/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/college-Info/college_info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/college-Info/college_info.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/college-Info/infopage_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/college-Info/infopage_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/profile/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/profile/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/signup/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/signup/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formSchema/signUpPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/formSchema/signUpPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/constants.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Deepesh22148&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SDOS-2025/Homiese&quot;,
+    &quot;accountId&quot;: &quot;33de99a1-ec8c-4b18-bf35-01e57cb561e8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vikhAE4XVejb67oLhPmpwLRnsc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\DEEPESH SAHU\\OneDrive\\Desktop\\github\\Homiese\\Frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DEEPESH SAHU\OneDrive\Desktop\github\Homiese\Frontend\app\(root)\profile\updateDetails" />
+      <recent name="C:\Users\DEEPESH SAHU\OneDrive\Desktop\github\Homiese\Frontend\app\(root)\profile" />
+      <recent name="C:\Users\DEEPESH SAHU\OneDrive\Desktop\github\Homiese\Frontend\app\(root)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c0b4ee-2846-434e-ab4c-47b99ee7afe6" name="Changes" comment="" />
+      <created>1744635401186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744635401186</updated>
+      <workItem from="1744635404506" duration="34000" />
+      <workItem from="1744993493825" duration="3207000" />
+      <workItem from="1745030242221" duration="12507000" />
+      <workItem from="1745048227692" duration="2881000" />
+      <workItem from="1745381965952" duration="1156000" />
+      <workItem from="1745487921168" duration="5000" />
+      <workItem from="1745487936852" duration="21000" />
+      <workItem from="1745908325342" duration="8436000" />
+      <workItem from="1746097933934" duration="240000" />
+      <workItem from="1746163693444" duration="22651000" />
+      <workItem from="1746248243344" duration="24565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,532 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "GGSIPU, Dwarka, Delhi",
+        "url": "http://www.ipu.ac.in/",
+        "email": "ggsipu.pr@rediffmail.com",
+        "telephone": "01125302171",
+        "address": "Guru Gobind Singh Indraprastha University, Sector - 16C",
+        "logo": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "3.852829372019893",
+            "reviewCount": "12883",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is it worth doing BTech from IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "During GGSIPU Engineering placements in 2022, the highest and average package offered was INR 45 LPA and INR 12 LPA, respectively. In addition, more than 370 offers were made and 70 companies visited the campus during IPU Engineering placements 2022. The top recruiters of GGSIPU in 2022 included leading companies such as Adobe, Amazon and Rapido. During Guru Gobind Singh Indraprastha University BTech placements 2021, a total number of 260 students participated in the placement drive out of which over 127 candidates were placed. For more details regarding GGSIPU placements, Click Here."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get direct admission in GGSIPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, the university does not offer direct admissions. IP University does not allow any of the affiliated colleges/institutes/agency to grant direct admission to any of the course of the university. Hence, the university is not responsible for any amount deposited or paid by the candidate directly to the affiliated colleges/institutes of GGSIPU. Candidates are also advised to not share their User ID or Username and the login password with anyone for safety purposes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the expected GGSIPU MBBS cutoff 2024?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The expected GGSIPU MBBS cutoff 2024 offered through Vardhman Mahavir Medical College is must range between 107 and 129. The UNiversity offers MBBS through North Delhi Municipal Corporation Medical College and Hindu Rao Hospital, the expected MBBS cutoff must range between 909 and is 1054 for the Geenarl category All India students. The ranks have been estimated on the basis of closing ranks of MBBS course offered throught NEET UG Round 1 Seat Allotment results. For more information regarding GGSIPU MBBS cutoff 2024, click here."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to BBA at IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For IPU BBA course admission, candidates need to appear for the IPU CET entrance exam conducted by Guru Gobind Singh Indraprastha University. Based on IPU CET ranks, students must have to follow a seat allotment process via IPU CET Counselling. GGSIPU now also accept CUET-UG scores for admission to this UG course. Interested candidates need to apply offline by paying the requisite fee of INR 2,500."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is CAT compulsory for MBA at IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, CAT is not the only exam based on which admission is granted. GGSIPU accepts the CAT percentile for MBA admission basis on which a merit list of selected candidates is released for the counselling round. Moreover, for the MBA in IT course, the university conducted IPU CET exam is accepted. In case the seats are left vacant after CAT candidates, then the seat allotment is carried out based on the candidate's CMAT scores."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can we get admission to IPU through CUET?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, GGSIPU accepts CUET scores. For UG courses, CUET-UG and similarly for the PG courses, CUET-PG is applicable. However, it must be noted that preference is given to CUET scores after the respective national-level exams and the Common Entrance Test (CET) conducted by the university. Some of the UG and PG programmes for which this entrance score is accepted are MCA, MA, BSc, BBA and allied programmes, BPharm, BCom (Hons), etc."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the minimum NEET score required to get BAMS from IP university?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "GGSIPU accepts AYUSH entrance exam scores for admission to the Bachelor of Ayurvedic Medicine and Surgery (BAMS) course. Candidates with AYUSH scores can apply for the BAMS admission at GGSIPU. Also, candidates seeking admission to BAMS can anticipate the minimum cutoff by referring to the table given below to check out the previous year's cutoff ranks for the General All India category students for R1 closing ranks in AYUSH: Course 2022 2023 Bachelor of Ayurvedic Medicine and Surgery (BAMS) 29036 33462"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is NEET UG cutoff trend for GGSIPU MBBS admission?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The closing ranks for GGSIPU MBBS cutoff offered through VMMC is 113 in 2023, 129 in 2022 and 143 in 2021, which marks the declining trend since last three years. For NDMC NEET UG closing cutoff ranks are 1063 in 2023, 1069 in 2022 and 1118 in 2021, which is also on the declining trend. The cutoff tren for GGSIPU MBBS admission through VMMC and NDMC is tabulated below: College 2021 2022 2023 Vardhman Mahavir Medical College 143 129 113 North Delhi Municipal Corporation Medical College and Hindu Rao Hospital 1118 1069 1063"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How to apply for MCA at IP University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For Guru Gobind Singh Indraprastha University MCA admission, candidates need to appear for the NIMCET entrance test. IP University MCA (lateral) entry admission is based on the IPU CET entrance test. In case of vacant seats after counselling, GGSIPU will consider Common Entrance Test (CET), conducted by GGSIP University for MCA admission. Candidates can fill out the accepted exams form through the official website of the conducting bodies. Furthermore, eligible candidates have to go to thr IPU official website to register and fill out the application form. All the details in the online application should be filled out as per the official documents. Also, application must be submitted within the prescribed due date."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is MCA 2 or 3 years in IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the IP University 2023 brochure, the duration of all the MCA courses is two-year. The course is further divided into semester pattern. There are four semesters during the course. The syllabus might also be defined semester-wise. Candidates have to pass all the semester exams in order to get a MCA degree from IPU."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to GGSIPU for MBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates seeking admission to the GGSIPU MBA course must visit the official website of the University to apply online. Guru Gobind Singh Indraprastha University MBA admission is based on candidates' performance in the CAT entrance examination. IPU also accepts CMAT scores. The final selection will be done on the basis of the student's performance in the Group Discussion & Personal Interview process. However, for IPU MBA in IT admission, GGSIPU conducts IPU CET, followed by a University-level counselling process."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the JEE Mains cutoff for BTech + M.Tech in Computer Science Engineering at GGSIPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In 2022, cut off was 15339 for the General category candidates in All India quota for BTech + M.Tech in Computer Science Engineering in Guru Gobind Singh Indraprastha University. Moreover, the BTech cut off varies depending on the category and domicile/quota of the applicant. Read more about IPU Cutoff."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get direct admission in IPU BCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "GGSIPU does not allow any of the affiliated colleges/institutes/agencies to grant direct admission to BCA courses. Hence, the university is not responsible for any amount deposited or paid by the candidate directly to the affiliated colleges/institutes of GGSIPU. Candidates are also advised to not share their User ID or Username and the login password with anyone for safety purposes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the minimum cutoff required in JEE Main to get admission in IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Based on JEE Main ranks, GGSIPU offers admission to various BTech courses. Tabulated below are the Round 1 Closing ranks for GGSIPU BTech cutoff 2023 for All India Quota and Home State Quota for General category students: Course R1 (Closing Rank) - All India R1 (Closing Rank)- Home State BTech + M.Tech in Computer Science Engineering 8556 18626 BTech + M.Tech in Information Technology 17550 26011 BTech + M.Tech in Electronics and Communication Engineering 24837 37666 BTech + M.Tech in Biochemical Engineering 82031 194585"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does GGSIPU have an entrance exam?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Guru Gobind Singh Indraprastha University conducts a Common Entrance Test (CET) for admission to BSc, BCA, BCom (Hons), B.Ed, BA (JMC), BHMCT, BBA, BA (Hons), BVoc, BPT, BPO, BOT, BASLP, BSc MLT, MSc, MA, MEd, MPT, MOT and MPO courses. IPU CET exam 2025 application forms for other courses, open tentatively in March every year. Apart from conducting <a href=\"https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university/ipu-cet-exam\">IPU CET</a>, GGSIPU also accepts several national-level entrance exams to provide admission to a few undergraduate, postgraduate and doctoral courses."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which college is best for B.Ed in IP University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "GGSIPU is ranked 1001-1200 by the QS World University Rankings 2025. Guru Gobind Singh Indraprastha University (GGSIPU), also known as Indraprastha University or IPU, is recognised as a state university. IPU Delhi is a teaching-cum-affiliating university. IP University is accredited with an A++ grade by the NAAC and recognised by the UGC. IPU is also ranked 80th by NIRF 2024 under the University category, 29th by NIRF 2024 under the Architecture and Planning category, and 89th by NIRF 2024 under the Engineering category. The B.Ed programme is offered in nearly 20 IPU-affiliated colleges. Admission criteria is the same for all these courses for B.Ed programme. The selection is done based on the aspirants scores in the IPU CET/CUET-PG. Some of the IPU affiliated colleges offering B.Ed are named in the table given below: IPU B.Ed offering Affiliated Colleges Achievia Educations LLP Army Institute of Education Bhavans Leelavati Munshi College of Education Delhi Institute Of Rural Development Delhi Institute of Rural Development (Sister Branch of Dird) Delhi Teachers Training College Fairfield Institute of Management and Technology Guru Ram Dass College of Education Institute of Vocational Studies"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many total seats are there at IPU for BCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Guru Gobind Singh Indraprastha University offers a three-year full-time BCA course at the undergraduate level. The course is also being offered via several affiliated colleges of GGSIPU. The total number of seats including all the affiliated colleges of IP University for the BCA course is 2,627. Given below is the list of a few affiliated colleges which offer BCA courses along with their seat intake: Institute Name Seat VIPS 360 Institute of Innovation In Technology & Management 240 Jagannath International Management School 120 Chanderprabhu Jain College of Higher Studies & School of Law 90"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How are GGSIPU BArch placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "GGSIPU BArch placement data is not released. However, as per the Architecture & Planning NIRF report 2024, the key highlights of IPU BArch placements over the past three years are presented below: Particulars BArch Placement Statistics (2021) BArch Placement Statistics (2022) BArch Placement Statistics (2023) Median package INR 3 LPA INR 3.2 LPA INR 3.44 LPA Total students 80 75 78 Students placed 75 72 73 Students opted for higher studies 5 3 5"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the highest package offered during GGSIPU placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The highest package offered during GGSIPU USICT placements 2024 stood at INR 41.2 LPA. Further, the highest package offered over the past three years during USICT placements is presented below: Particulars IPU USICT Placement Statistics (2022) IPU USICT Placement Statistics (2023) IPU USICT Placement Statistics (2024) Highest package INR 45 LPA INR 23 LPA INR 41.2 LPA Note: Placement data 2024 is based on on-campus drives till February 2024 Earlier, the course-wise the highest package offered during IPU placements 2022 is presented below: Course Highest Package (2022) USEM (MSc) INR 162 LPA Note: USEM the highest package 2022 data presented above is the highest package offered from placements 2016 to placement 2022 drives."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the reality of GGSIPU placements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The overall placement rate recorded during GGSIPU USICT placements 2023 and 2022 was 76% and 90%, respectively. Further, the key highlights of GGSIPU USICT placements 2024 are presented below: Particulars IPU USICT Placement Statistics (2024) Highest package INR 41.2 LPA Average package INR 7.2 LPA Total offers 126 Companies visited 32 Internship offers 7 Note: Placement data 2024 is based on on-campus drives till February 2024"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which IP college is best for MCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There are 12 IPU-affiliated colleges offering the PG course. Find below the GGSIPU colleges offering MCA courses: IPU-Affiliated Colleges offering MCA Banarsidas Chandiwala Institute of Information Technology Bharati Vidyapeeth Institute of Computers Applications and Management CDAC - Centre for Development of Advanced Computing Centre for Development of Advanced Computing Delhi Institute of Advanced Studies Guru Nanak Institute of Management HMR Institute of Technology and Management Institute of Information Technology & Management JIMS Rohini R.C. Institute of Technology Tecnia Institute of Advanced Studies VIPS Delhi"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to GGSIPU for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Guru Gobind Singh Indraprastha University BTech admission is based on a valid JEE Main score. For GGSIPU admission to BTech in Biotechnology, a candidate has to appear for IPU CET or CUET. The BTech course is the university's flagship programme, which is spread across four years, comprising eight semesters. The final selection of the IPU BTech course is carried out through a centralised counselling process. GGSIPU admission to other UG courses such as BSc, BCA, BCom (Hons), B.Ed, BA (JMC), BHMCT, BBA, BA (Hons) and BVoc, among others is based on a valid IPU CET score, conducted by the University."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How good is the BBA at IP University?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IPU is counted among the good universities in the country. GGSIPU is ranked 1001-1200 by the QS World University Rankings 2024. In the NIRF 2024 ranking, it was ranked 80 under the \"University\" category. The placement data for the GGSIPU BBA course is not available as of now. However, during GGSIPU placements in 2022, the highest and average package offered stood at INR 45 LPA and INR 12 LPA, respectively for IPU Engineering (USCIT) placements."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How good is an MBA from IP university, New Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Guru Gobind Singh Indraprastha University is a decent choice to pursue an MBA degree. Talking about the GGSIPU ranking, the University was ranked 65 in the Management category by the National Institutional Ranking Framework in 2024. However, Outlook in its 2024 rankings has placed the university at the 15th spot. IP University also offers placement opportunities to its students. During IPU placements for MBA in 2022 at USMS, the median package offered was INR 5.60 LPA. Additionally, the placement percentage achieved was 91%."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the required qualification for IPU BCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates applying for BCA in IP University colleges must meet the eligibility criteria. To be eligible to take admission, aspirant must be a Class 12 pass in the relevant group of subjects with 50% aggregate. The student should have studied English (core or elective or functional) and Mathematics/Computer Science/Informatics Practice/Computer Applications/Multimedia & Web Technology/Data Management Application/Web Application as compulsory subjects of a non-vocational stream with 50 theory and 50 practical ratios."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is the library at GGSIPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Guru Gobind Singh Indraprastha University has a state-of-the-art infrastructure. The library at IP University is centrally air-conditioned and fully automated. The library is well stocked with 67,000 books, 12,000 e-books, 15,000 journals, and subscriptions to 14 online databases. Remote access is available to the students and faculty for the resources along with the WebOPAC facility. Besides all these facilities, students also have access to 05 DPL's Zonal Libraries and 37 library units across Delhi. The students can avail of Newspaper archives from 1952+ and 6000+ e-resources."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is IPU admission open?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, GGSIPU (IP University) admissions 2025 are open. The IPU CET 2025 applications are open for UG and PG courses, and the last date is Mar 31, 2025. Further, the IPU CET 2025 exams are to be held from Apr 26 to May 18, 2025. Candidates can apply online on the official website of the university. IPU applications for all the affiliated institutes is conducted through a centralised application portal, which is directly accessible from the official website of GGSIPU."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the average package offered at GGSIPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The average package offered during IPU USICT placements 2024 stood at INR 7.2 LPA. Further, a declining trend was witnessed in the average package offered over the past three years, which is presented below: Particulars IPU USICT Placement Statistics (2022) IPU USICT Placement Statistics (2023) IPU USICT Placement Statistics (2024) Average package INR 12 LPA INR 9 LPA INR 7.2 LPA Note: Placement data 2024 is based on on-campus drives till February 2024 Earlier, the average package offered during GGSIPU USEM placements between 2016 and 2022 stood at INR 10 LPA."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the cutoff of IPU for BBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IP University BBA IPU CET cutoff in 2023 dropped from the past two years. Table given below mentions IPU BBA cutoff trend of the last round for General-All India category candidates: Course 2021 2022 2023 Bachelor of Business Administration 274 103 538 Bachelor of Business Administration (BBA) (Shift-II) 789 442 1478 BBA in Banking and Insurance 1136 401 1014"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission to B.Tech course at IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<a href=\"https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university-delhi-24725/admission\">Guru Gobind Singh Indraprastha University course admissions</a> is based on the entrance examination scores. Guru Gobind Singh Indraprastha University application form can be filled out by visiting the official website. Guru Gobind Singh Indraprastha University accepted entrance exam is <a href=\"https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university/ipu-cet-exam\">IPU CET</a>. IPU admission to most of the courses is based on IPU CET scores, however, the university accepts some national-level exam scores as well. JEE Main is another exam accepted by the IPU."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "My rank in IPU CET is 5574. Which college can I get under IP University for BCA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "With a rank of 5574 in IPU CET, you have a decent chance of getting admission to several colleges under IP University for the BCA (Bachelor of Computer Applications) program. While the availability of seats and cutoff ranks can vary each year, I can provide you with a list of colleges that typically offer the BCA programme under IP University. Here are some colleges under IP University that you may consider for BCA: Maharaja Surajmal Institute (MSI) Vivekananda Institute of Professional Studies (VIPS) Jagan Institute of Management Studies (JIMS) Trinity Institute of Professional Studies (TIPS) Ideal Institute of Management and Technology (IIMT) Fairfield Institute of Management and Technology (FIMT) Kasturi Ram College of Higher Education (KRCHE) Tecnia Institute of Advanced Studies (TIAS) New Delhi Institute of Management (NDIM) Delhi Metropolitan Education (DME) Please note that the availability of seats and cutoff ranks can vary each year, so it's advisable to check the official website of IP University or the respective colleges for the most accurate and up-to-date information. Additionally, consider participating in the counselling process conducted by IP University to have a better chance of securing a seat at your preferred college."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the closing rank in the NEET for an MBBS at IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Guru Gobind Sign Indraprastha University admission 2023 to MBBS course is based on NEET UG scores followed by NEET UG counselling. The university offers MBBS admission through two affiliated colleges including North Delhi Municipal Corporation Medical College and Hindu Rao Hospital and North Mahavir Medical College. The MCC has released NEET UG Round 5 Seat Allotment results as the conclusing round. MBBS offered through VMMC has closed at 113 and NDMC has closed on 1063 for. The table mentioned below shows the latest closing ranks for GGSIPU MBBS cutoff 2023, along with last two years of cutoff: College 2021 2022 2023 North Mahavir Medical College 143 129 113 North Delhi Municipal Corporation Medical College and Hindu Rao Hospital 1118 1069 1063"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does it cost to study B.Ed at IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total IP University B.Ed fees includes various fee components such as tuition fee, registration fee, security deposit, etc. The total tuition fee for B.Ed ranges between INR 1.1 Lacs and INR 2.2 lakh. Moreover, the tuition fee for B.Ed (special education) is INR 1.92 lakh. After seat allotment, candidates have to pay some amount of the fee to confirm their seat. The fee mentioned here is taken from the official website/sanctioning body. It is subject to changes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fees for BBA in IPU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IPU BBA fee includes several components, such as tuition fee, registration fee, security charges, etc. The tuition fee for the UG courses range between INR 96,500 and INR 4.2 lakh. This fee range is cumulative of courses offered by the university through its affiliated colleges, hence may vary. This information is sourced from official website/ sanctioning body and is subject to change. Candidates can visit the IP University official website (ipu.ac.in) to get more information on the fee structure or get in touch with the admission office."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much is the IPU BA tuition fees?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total tuition fee for BA/BA (Hons) course offered through IP University ranges between INR 2 Lacs and INR 3.2 lakh. This fee range is inclusive of BA courses offered at various IP-affiliated colleges. Moreover, the total course fee includes other components as well, such as caution deposit, hostel fee, meal plan, etc. The tuition fee component has to be paid annually/semesterly. It must be noted that the given fee amount is as per the official website/sanctioning body. It is still subject to change and hence, is indicative."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university-delhi-24725",
+                    "name": "GGSIPU"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university-delhi-24725/courses",
+                    "name": "Courses"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IPU Courses: UG, PG, Doctorate, Certificate Courses & Fees 2025",
+        "description": "Check 10  courses and their fee details at GGSIPU, Delhi. Find details of all  UG & PG degree, diploma and certification programs offered by IPU along with course Duration, Reviews, Eligibility & Apply Dates",
+        "dateModified": "2025-02-19T10:28:00+05:30",
+        "datePublished": "2024-10-04T15:50:46+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university-delhi-24725/courses",
+            "@type": "WebPage",
+            "name": "Guru Gobind Singh Indraprastha University"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "SaumyaSrivastava",
+            "url": "https://www.shiksha.com/author/Saumya160079"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "ItemList",
+        "name": "IPU Courses: UG, PG, Doctorate, Certificate Courses & Fees 2025",
+        "description": "Check 10  courses and their fee details at GGSIPU, Delhi. Find details of all  UG & PG degree, diploma and certification programs offered by IPU along with course Duration, Reviews, Eligibility & Apply Dates",
+        "url": "https://www.shiksha.com/university/guru-gobind-singh-indraprastha-university-delhi-24725/courses",
+        "numberOfItems": "20",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science and Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/greater-noida-institute-of-technology-ipu-57859/course-b-tech-in-computer-science-and-engineering-320593",
+                "position": 1
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.A. LL.B. at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/chanderprabhu-jain-college-of-higher-studies-and-school-of-law-narela-delhi-43921/course-b-a-ll-b-215134",
+                "position": 2
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.A. LL.B. (Hons) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/amity-law-school-delhi-noida-44005/course-b-a-ll-b-hons-215406",
+                "position": 3
+            },
+            {
+                "@type": "ListItem",
+                "name": "Master of Business Administration (Shift I) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867/course-master-of-business-administration-shift-i-189959",
+                "position": 4
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/maharaja-agrasen-institute-of-technology-rohini-delhi-24875/course-b-tech-in-computer-science-engineering-71966",
+                "position": 5
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science and Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/bharati-vidyapeeth-college-of-engineering-delhi-paschim-vihar-26574/course-b-tech-in-computer-science-and-engineering-92064",
+                "position": 6
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Computer Application (BCA) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/maharaja-surajmal-institute-janakpuri-delhi-49395/course-bachelor-of-computer-application-bca-266208",
+                "position": 7
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science and Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/bhagwan-parshuram-institute-of-technology-rohini-delhi-49447/course-b-tech-in-computer-science-and-engineering-267006",
+                "position": 8
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Business Administration (BBA) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/institute-of-information-technology-management-janakpuri-delhi-22302/course-bachelor-of-business-administration-bba-25270",
+                "position": 9
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Business Administration at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/vips-vivekananda-institute-of-professional-studies-pitampura-delhi-28593/course-bachelor-of-business-administration-191354",
+                "position": 10
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.A. LL.B. at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/jims-engineering-management-technical-campus-greater-noida-47224/course-b-a-ll-b-235225",
+                "position": 11
+            },
+            {
+                "@type": "ListItem",
+                "name": "M.Sc. in Forensic Science at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/lok-nayak-jayaprakash-narayan-national-institute-of-criminology-and-forensic-science-rohini-delhi-21882/course-m-sc-in-forensic-science-29464",
+                "position": 12
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Electronics and Communication Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/maharaja-surajmal-institute-of-technology-janakpuri-delhi-38183/course-b-tech-in-electronics-and-communication-engineering-192624",
+                "position": 13
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science and Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/shri-balwant-institute-of-technology-sonepat-21947/course-b-tech-in-computer-science-and-engineering-178890",
+                "position": 14
+            },
+            {
+                "@type": "ListItem",
+                "name": "Master of Business Administration (MBA) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/banarsidas-chandiwala-institute-of-professional-studies-dwarka-delhi-42806/course-master-of-business-administration-mba-212201",
+                "position": 15
+            },
+            {
+                "@type": "ListItem",
+                "name": "Bachelor of Journalism and Mass Communication at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/maharaja-agrasen-institute-of-management-studies-rohini-delhi-49432/course-bachelor-of-journalism-and-mass-communication-266769",
+                "position": 16
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Computer Science and Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/gn-group-of-institutes-greater-noida-56393/course-b-tech-in-computer-science-and-engineering-253371",
+                "position": 17
+            },
+            {
+                "@type": "ListItem",
+                "name": "M.A. in Archaeology and Heritage Management at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/delhi-institute-of-heritage-research-and-management-qutab-institutional-area-898/course-m-a-in-archaeology-and-heritage-management-134904",
+                "position": 18
+            },
+            {
+                "@type": "ListItem",
+                "name": "B.Tech. in Electronics and Communication Engineering at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/guru-tegh-bahadur-institute-of-technology-rajouri-garden-delhi-38182/course-b-tech-in-electronics-and-communication-engineering-192608",
+                "position": 19
+            },
+            {
+                "@type": "ListItem",
+                "name": "Master of Business Administration (MBA) at GGSIPU, Dwarka, Delhi",
+                "url": "https://www.shiksha.com/college/dr-akhilesh-das-gupta-institute-of-technology-and-management-formerly-northern-india-engineering-college-shastri-park-delhi-28762/course-master-of-business-administration-mba-114464",
+                "position": 20
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

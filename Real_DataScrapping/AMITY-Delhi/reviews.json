@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity University, Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2154",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/reviews",
+                    "name": "Reviews"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Amity Noida Reviews on Placements, Faculty and Facilities",
+        "description": "Read 2154 Amity University, Noida Reviews on Placements, Faculty, Facilities & Infrastructure given by students and alumni across various courses and streams. Download Brochures & Admission details of AU.",
+        "url": "https://www.shiksha.com/university/amity-university-noida-41334/reviews"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

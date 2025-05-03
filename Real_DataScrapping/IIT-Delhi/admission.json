@@ -1,0 +1,402 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the JEE Advanced cut off for B.Tech. in Biochemical Engineering and Biotechnology in IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For 2024, cut off was 4849 for General category candidates in All India quota for B.Tech. in Biochemical Engineering and Biotechnology in Indian Institute of Technology, Delhi. IIT Delhi B.Tech cut off varies depending on the category and domicile/quota of the applicant."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get IIT Delhi with 500 rank?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, with a rank of 500 in JEE Advanced, you have a good chance of getting admission to IIT Delhi for BTech and Integrated BTech courses. Candidates with cutoff ranks between 102 and 574 can easily secure admission at IIT Delhi. Additionally, students with ranks higher than 500 can study BTech CSE in top IITs in India."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Are admissions open at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIT Delhi admissions are open for UG and PG courses. Candidates seeking admission at IIT Delhi need to complete the application form for the course-specific entrance exam. The institute admits students to BTech courses based on JEE Main and JEE Advanced scores. Candidates are allotted seats in JoSAA Counselling for BTech courses. Admission to M.Tech is through GATE followed by COAP Counselling. The institute considers IIT JAM and CCMN Counselling for MSc courses.The cutoff for BTech, M.Tech and MSc courses is released by the respective counselling bodies. For merit-based courses, IIT Delhi will release the course-wise merit"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is it worth joining IIT Delhi for MTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "As per the QS World University Rankings, IIT Delhi is the third best institute in India and 174th globally. In the NIRF rankings, it has been ranked at the second spot under the \"Engineering\" category. Candidates get good placement opportunities. The highest international and domestic package offered was INR 2 crore per annum and INR 1.25 crore per annum. In IIT Delhi placements, 50 students received package more than INR 1 crore per annum (domestic). Thus, it is great if a candidate gets admission at IIT Delhi."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the admission procedure for M.Sc at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi considers IIT JAM for admission to MSc course. Selected candidates are further required to participate in the counselling round for seat allotment. Additionally, aspirants also need to complete a bachelor's degree in a relevant stream with a minimum 55% aggregate for admission to MSc programme."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which all Certificate courses are available at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Presently, IIT Delhi is offering seven Certificate courses, including Digital Marketing, Data Science, Human Resource Management, Business Management, Design Thinking & Innovation, Industrial Design, Innovation and Entrepreneurship and Project Management. The college offers courses at the UG and PG levels across the Design, Management, Engineering, and several other streams. At the UG level, IIT Delhi offers B.Tech, B. Des and other courses to students. At the PG level, the college offers M.A. M.Tech, M.A. M.Sc. And other courses to students. The candidates must fill out the application form to get admission to the Certificate and other courses offered by the college. For getting admission to certificates and other courses, the candidates must follow a certain admission procedure. The candidates must fill out the application form in online and offline modes and then must submit the form with the application fees."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the seat intake for BTech at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total seat intake for BTech and integrated programmes is 1209. Find below seat intake for some of the BTech specialistions: BTech Specialisation Seat Intake Chemical Engineering 75 Mechanical Engineering 95 CSE 99 Civil Engineering 110 Electrical Engineering 120"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the opening and closing rank for B.Tech in Computer Science and Engineering at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The opening and closing rank depends on the category and quota of candidates. For general category under All India, the opening rank was 102 and the closing rank was 102. Cut off are different when it comes to other categories or female candidates and even domicile of home state. In All India, opening and closing rank for female candidates was 450 and 450. Admission to BTech in Computer Science and Engineering in IIT Delhi is based on the scores obtained in the entrance exam JEE. Applicants are advised to confirm what category are they applying while checking for cut offs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the opening and closing rank for BTech in Electrical Engineering at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Opening and Closing rank depends on the category and quota of candidates. For general category under All India, opening rank was 574 and closing rank was 574. Cut off are different when it comes to other categories or female candidates and even domicile of home state. In All India, opening and closing rank for female candidates was 1572 and 1572. Admission to BTech in Electrical Engineering in IIT Delhi is based on the scores obtained in the entrance exam JEE. Applicants are advised to confirm what category are they applying while checking for cut offs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Has IIT Delhi introduced new specialisations under BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIT Delhi has introduced two new specialisations under BTech up recently. These included: B.Tech. in Engineering and Computational Mechanics (ECM) B.Tech. in Data Science and Engineering (DSE) The IIT Delhi BTech ECM programme is designed to prepare students for careers in engineering and computational mechanics. The programme will cover a broad range of topics, including Engineering Mechanics, Computational Mechanics, and finite element analysis. Students will also have the opportunity to specialize in a particular area of Engineering Mechanics, such as Structural Mechanics, Fluid Mechanics, or Heat Transfer. The IIT Delhi BTech Data Science programme is designed to prepare students for careers in Data Science and Engineering. The programme will cover a broad range of topics, including Data Science Fundamentals, Machine Learning, and Artificial Intelligence. Students will also have the opportunity to specialize in a particular area of Data Science, such as Computer Vision, Natural Language Processing, or Data Mining."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What if I cannot get into IIT Delhi? Which are other similar IITs that I can seek?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi is one of the prestigious IITs of India offering BTech course. For getting into IIT Delhi, candidates are required to pass JEE Main, followed by JEE Advanced and JoSAA Counselling. All the students applying for admission to BTech at IITs will not get IIT Delhi. Some of the reasons can be low cutoff score and availability of seats. In such case, aspirants must look at other recognised IITs. Below are some of the IITs that candidates can seek for admission: College Name NIRF Rank 2023 IIT Delhi 2 IIT Madras 1 IIT Bombay 3 IIT Kharagpur 6"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What makes IITs different than other top Engineering institutes in India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Indian Institute of Technology or IITs are world renowned Engineering institutes network. The competitive selection procedure has built its reputation in the field. As it helps the institute in filtering out the best of students. Admission to IITs is through the Joint Entrance Examination (JEE). As per past years' statistics, only 1% or 2% of the total applicants get a seat in an IIT. Moreover, IITs also enjoy good partnerships/collaborations with industry partners. These connections allow students to get opportunity to work on collaborative research projects, internships, and job placements for students. With this type of industry exposure, students get a chance to enhance their practical skills. Some more reasons that distinguish IITs from other institutes are highlighted below:"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you get into foreign university with IIT Delhi graduation degree?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Many students after completing graduation from IIT Delhi opt for a master’s degree in abroad. This not only open opportunities for students but also helps them in building a global network of contacts. Some of the popular courses to pursue after BTech include MS or MSc and MBA. Before stepping into the college, you must ensure to checklist all the specified criteria. Below are list of top universities offering MBA or MS along with their eligibility and fee: Course Eligibility Average First-Year Tuition Fee Top Universities in Abroad MBA Candidates should hold a bachelor’s degree and take a GMAT exam to secure a seat. They also need to qualify any of the popular English proficiency exams such as IELTS, TOEFL, PTE or Duolingo. INR 22.86 lakh Massachusetts Institute of Technology Harvard Business School London Business School IE Business School MS Bachelor’s degree INR 4.6 lakh – INR 41.5 lakh National University of Singapore Dalhousie University (DAL) The University of Bradford (Bradford) University of Oxford (OU)"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which top foreign universities offer BTech equivalent to IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IITs is a choice of many for pursuing BTech but only a few get into it due to its competitive selection process. There are a lot of globally recognised universities in abroad offering BTech degree. Some of them are also listed in QS World University Rankings. Countries like US, UK, Canada, Australia, and Singapore are top destinations for pursuing a BTech degree. Below is the fee and eligibility along with top BTech universities in abroad: Eligibility: Candidates must have Class 12 along with an English proficiency scores in IELTS, TOEFL or PTE. Students also need to appear for SAT or ACT exams. Fee: The cost of BTech in foreign universities varies by country and university. If a student wishes to study BTech in the USA, then it may cost him or her around INR 35 lakh for the first year. The degree might cost around INR 24 lakh including the tuition fee and living expenses for the first year. Top Foreign Universities Offering BTech University of Waterloo The University of British Columbia University of Toronto McGill University Texas A&M University Massachusetts Institute of Technology"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much is IIT Delhi fee?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi course fee is inclusive of multiple components, some of which are charged only once at the time of admission. The fee may vary depending on the course and specialisation selected by the students. Find below IIT Delhi fee for some of its popular courses: Course Tuition Fee (Investment) BTech INR 8 lakh MTech INR 3 lakh MBA INR 12 lakh MSc INR 30,000 - INR 3 lakh Executive MBA INR 12 lakh Note: This information is collated from official sources and is subject to change."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the IIT Delhi application process?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For seeking admission to the courses offered at IIT Delhi, as a first step, candidates are required to visit the official website of respective national-level entrance exam conducting bodies and fill out the application form in online mode. The steps to fill IIT Delhi application form are given below: Step 1: Visit the official website of IIT Delhi. On its homepage, click on ‘Admissions’. From the drop-down menu that appears, click on ‘Announcements’. Step 2: The admission brochure, admission pamphlet and prospectus can be downloaded from this page. Click on ‘Apply Now’ button to proceed further. Step 3: The registration page opens up. Click on ‘New User Register Here’. Fill out the registration form with all the details, including name, email ID, contact number, course preference, etc. Also, create an alpha-numeric password for future logins. Step 4: Further, fill in the remaining application form by addressing other details, including guardian info, address of communication, qualifications, etc. Step 5: Upload all the required documents in PDF format. Also, upload a passport-size photograph and signature and JPG/ JPEG format. Step 6: Conclude the application process by paying an application fee using a debit card/ credit card/ net banking. Furthermore, for BTech/MTech/MSc, candidates need to complete the respective entrance exam application process as mentioned below: For BTech, aspirants need to complete the application form for JEE (Main) through the official website of the National Testing Agency (NTA). The application fee for boys is INR 625 and INR 325 for girls. Read more about JEE Application Form 2024. MTech candidates are required to register for GATE through the official website of the GATE Online Application Processing System (GOAPS). The application fee for boys is INR 1,500 and INR 750 for girls. Read more about the GATE Application Process. For MSc, candidates need to complete the IIT JAM Application Form. List of required documents: Candidates need to submit scanned copies of the below-mentioned documents while filling IIT Delhi application form in online mode: the latest passport-size photograph First and last pages of Aadhaar Card/ Voter ID Card/ Passport PAN Card Admission offer letter Entrance exam scorecard Qualifying degree certificate Qualifying exam mark sheet Category certificate (only in case of candidates belonging to SC/ ST/ OBC/ EWS/ PwD category) No objection certificate (only in case of part-time applicants) Sponsorship certificate/ Relieving letter (in case of full-time sponsored/ full-time working candidates) Medical certificate (in case of full-time candidates)"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the IIT Delhi application fee for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The application fee can be done via credit card/debit card/net banking. Find below the category-wise application fee for JEE Main: Category Application Fee Male unreserved/OBC/EWS INR 1,000 Female unreserved/OBC/EWS INR 800 SC/ST/PwD/Transgender INR 500"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What documents are required for admission to IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To get admisison to IIT Delhi, candidates are required to keep handy of few list of documents. To know the list of documents required for IIT Delhi, candidates can check the points mentioned below: Class 10 and Class 12 marksheets Bachelor's degree certificate & marksheets (for PG courses only) Master's degree certificate & marksheets (for PhD courses only) Entrance exam scorecard (JEE/GATE/IIT JAM/UCEED/CAT/CEED) Work experience certificate (if available) Passport-size photograph Scanned image of the signature OBC-NCL Certificate (if applicable) Copy of Income & Asset certificate for EWS (if applicable)"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi admission is entrance-based for all the programmes (Except for PG Diploma). For the diploma course, selection is done merit-basis. Candidates who have passed Class 12 can apply for the Indian Institute of Technology Delhi undergraduate courses. More details around the admission process of some of the courses are provided below: Candidates, who have passed Class 12 from a recognised board with an aggregate of 75% or above, can appear for JEE Main, followed by JEE Advanced and JoSAA Counselling to seek BTech admission at IIT Delhi. Admission to MTech course is based on merit in GATE exam followed by GOAP counselling. For MSc, aspirants need to apply with a valid score of IIT JAM and selected candidates have to further go through CCMN counselling."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi offer free of cost studies?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, the tuition fee for the IIT Delhi BTech is around INR 8 Lacs. At the UG level, IIT Delhi offers four to five-year BTech courses to students. The IIT Delhi accepts the JEE Main and JEE Advanced entrance exam scores for admission to various courses. IITD has ranked 2 under 'Engineering' and 4 under 'Overall' and 'Management' categories by the NIRF 2022. Apart from the PG and UG courses, IITD also provides a PG Diploma course for the DMRC and Indian Navy-sponsored candidates. IIT Delhi has also started offering various Certificate programmes for a duration of six to one year, including courses like Digital Marketing, Data Science, and Human Resource Management, among others. At the doctoral level, the institute provides an MS (by Research) course for a duration of three years."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the criteria for admission to IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In order to get admision at IIT Delhi, the candidate have to meet the last educational qualification. To know the selection criteria for few of a top courses offered at IIT Delhi students can check the table below: Courses Common Eligibility Selection Criteria BTech Class 12 from a recognised board with a minimum 75% aggregate JEE Main/ JEE Advanced + JoSAA counselling MBA Bachelor's degree or equivalent with a minimum 60% aggregate CAT + Group Discussion + Personal Interview MTech BE/ BTech/ MSc or equivalent with a minimum 60% aggregate GATE + COAP Counselling MSc Bachelor's degree in a relevant stream with a minimum 55% aggregate IIT JAM + Counselling BDes Candidates from the Science Stream with Physics, Chemistry and Mathematics as subjects UCEED"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi offer direct admission for any course?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, admission to the IIT Delhi courses is entrance-based, except for PG Diploma course. There is no provision for direct admission. However, for IIT Delhi MTech admission, the institute offers direct admission to candidates with an overall CGPA of 8.00 out of 10. Those students are exempted from GATE and are eligible for direct admissions. The below table mentions course-wise accepted entrance exams: Courses Accepted Entrance Exam BTech JEE Main/JEE Advanced MBA CAT MTech GATE MSc IIT JAM BDes UCEED MDes UCEED"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you do MTech from IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, any candidate who has passed BE/ BTech/ MSc or equivalent with a minimum 60% aggregate are eligible to apply for IIT Delhi M.Tech programme. Aspirants must also qualify GATE for admission to MTech. Aspirants with a score equal to or more than the cutoff also have to go through a counselling round. Once selected, aspirants have to pay a course fee to confirm their seat in the institute."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I do MTech at IIT Delhi without GATE?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi MTech admission is completely entrance-based. Candidates seeking admission to the IIT Delhi MTech course must appear for the Graduate Aptitude Test in Engineering (GATE). However, BTech graduates from IITs with an overall CGPA of 8.00 out of 10 are exempted from GATE and are eligible for direct admissions. Apart from this, candidates are also requested to fulfil the minimum eligibility criteria to be eligible for IIT Delhi MTech admission."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the total cost in doing MTech from IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There are multiple components added to the course fee, including tuition fee, hostel fee, student welfare fund, training and placement charges, etc. IIT Delhi MTech tuition fees range between INR 10,000 and INR 11.9 lakh. The fee mentioned here is taken from an official source/sanctioning body and is subject to changes. Hence, is indicative. The given fee range include tuition fee for different specialisations and integrated courses."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I study at IIT Delhi at a lesser cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Since IIT Delhi is a public university, it offers quite affordable education in the stream of Engineering. But, still, below mentioned are some tips for reducing the cost of studying at IIT Delhi: Apply for scholarships and grants. There are a number of scholarships and grants available to IIT Delhi students. Students can search for scholarships and grants on the IIT Delhi website and on other scholarship websites. Get a part-time job. Students can get a part-time job on campus or off campus to help cover their living expenses. Cook at home instead of eating out. Eating out can be expensive, especially in Delhi. So, students can save money by cooking at home. Use public transportation instead of taxis. Public transportation is much cheaper in Delhi than taxis and cabs. Take advantage of student discounts. Many businesses in Delhi offer student discounts. Students should ask businesses if they offer student discounts before they make a purchase. Overall, the cost of studying at IIT Delhi is relatively affordable for Indian students. However, students should budget carefully and take advantage of all the resources available to them."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I study free in IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIT Delhi offers around seven scholarships both at the UG and PG levels which are based on the financial situation of the students or their academic performances. IIT Delhi offers several scholarships both at the UG and PG levels which are based on the financial situation of the students or their academic performances. Some of the scholarships offered by the college are Institute Merit-cum-Means Scholarships, Institute Merit Prizes and Certificates, Institute Free Studentship (UG), Scholarship for SC/ ST/ PwD Students, Donor Scholarship, and others. The scholarships offered to the PG students are the Scholarships for M.Sc. Students, Scholarships for M.Tech, MS (Research) and M.Des students, Scholarship for Ph.D. students, and others."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get MBA at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates seeking admission to <a href=\"https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/courses/mba-pgdm-bc\">MBA</a> course at IIT Delhi must visit the official website of the <a href=\"https://www.shiksha.com/college/department-of-management-studies-iit-delhi-hauz-khas-35998\">DMS IIT Delhi</a> to apply online. IIT Delhi MBA admission to General and Telecommunication Systems Management is based on a CAT score. The final selection is based on candidates' performance in the GD & PI rounds."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I do MBA from IIT Delhi without CAT?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, the institute offers admission based on CAT scores. Candidates seeking admission to IIT Delhi MBA course must apply online for CAT. IIT Delhi MBA admission is based on candidates' performance in the CAT entrance test, followed by a GD & PI round. Apart from this, candidates are also required to fulfil the minimum eligibility criteria for IIT Delhi MBA admission. To be eligible for MBA admission at IIT Delhi, candidates must have a Bachelor's degree or equivalent of a minimum of three-years duration after Class 12 with a CGPA of 6.00 on a 10-point scale or 60% aggregate."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission in IIT Delhi for MBA?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To secure admission at DMS IIT Delhi for the MBA programme, ensure to meet the eligibility criteria of having a graduation degree with at least 60% aggregate. The primary selection criterion is based on the CAT exam. After taking the CAT exam, candidates should also undergo an interview round as part of the admission procedure. Additionally, if students are interested in the Executive MBA programme, similar eligibility criteria will apply, along with the CAT exam as the selection parameter. The tuition fee for the MBA programme is INR 11.2 lakh."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIT Delhi offer MSc?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, IIT Delhi offers a two-year full-time MSc course at the postgraduate level. The programme is offered across different specialisations. IIT Delhi admission to various MSc specialisations differs. For IITD MSc admission in Chemistry is based on a valid IIT JAM score, followed by a CCMN Counselling round. For more detailed information related to the IIT Delhi MSc course, candidates are advised to contact the admission department of the institute."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the seat intake for the IIT Delhi MSc course?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total seat intake for the IIT Delhi MSc course is 254. Given below is the specialisation-wise seat intake for IIT Delhi MSc course: IIT Delhi MSc Seat Intake Specialisations Seat Intake Cognitive Science 25 Economics 25 Chemistry 68 Mathematics 68 Physics 68"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who is eligible to apply for a BTech course at IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Admission to BTech courses in IIT Delhi is subject to fulfiment of the eligibility requirements for JEE Main and JEE Advanced. The students who have passed Class 12 in Science stream with at least 75% aggregate (65% aggregate for SC/ST/PwD) are eligible to apply. Candidate should have passed the qualifying exam from a recognised board. In addition, it is also crucial that the applicant hold the relevant documents as a proof of eligibility."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission in IIT-Delhi or other good engineering colleges?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi BTech admission 2025 is based on JEE Advanced scores. Though the institute records high cutoffs every year, with adequate preparation, anyone can seek admission to its BTech programme. Candidates need to be thorough with their Class 11 and Class 12 syllabus with proficiency in Science and Mathematics to crack the exam. The students must have a valid score in JoSAA. Also, for similar top-notch or tier 1 BTech colleges such as IITs, NITs and IIITs, the pattern of the entrance for BTech is the same."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is getting BTech admission at IIT Delhi tough?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, getting BTech admission at IIT Delhi is very tough. IIT Delhi is one of the most prestigious engineering universities in India, and it attracts lakhs of applicants each year. The admission process is highly competitive, and only a selected few students are admitted. To be eligible for BTech admission at IIT Delhi, students must have passed the JEE Advanced entrance exam with a high rank. In 2024, the closing rank for BTech admission at IIT Delhi ranged between 116 - 6102. In addition to having a high JEE Advanced rank, students must also meet certain academic requirements to be eligible for BTech admission at IIT Delhi. These requirements include: Passing the Class 12 examination with a minimum of 75% marks in aggregate (65% for SC/ST/PwD candidates) Passing the Mathematics, Physics, and Chemistry subjects in the Class 12 examination Even if students meet all of the eligibility requirements, they are not guaranteed admission to BTech programs at IIT Delhi. The admission process is highly competitive, and only the top students are admitted."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/admission",
+                    "name": "admission"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIT Delhi Course Admissions 2025: Cutoff, Fee, Eligibility, Application & Dates",
+        "description": "Check IIT Delhi - Indian Institute of Technology Admission Process, Cutoffs, Eligibility, Exams, Selection Criteria & Dates for various courses. Download Brochures & Admission details of IITD.",
+        "dateModified": "2025-03-17T17:53:00+05:30",
+        "datePublished": "2024-10-04T16:50:53+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/admission",
+            "@type": "WebPage",
+            "name": "IIT Delhi - Indian Institute of Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "NancyKumari",
+            "url": "https://www.shiksha.com/author/Nancy203546"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

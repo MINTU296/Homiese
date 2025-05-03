@@ -1,0 +1,146 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "Amity Noida",
+        "url": "https://www.amity.edu/",
+        "email": "admissions@amity.edu",
+        "telephone": "01202445252",
+        "address": "Amity University, Amity Road, Sector-125",
+        "logo": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.04629932696882",
+            "reviewCount": "2154",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the hostel fees of Amity University, Noida? Are there facilities like gym?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The hostel fees at Amity University, Noida vary depending on the type of room and the facilities included. For example, a single AC room with attached bathroom costs approximately INR 1,60,000 per year, while a triple non-AC room with common bathroom costs around INR 85,000 per year. The hostel fees include meals, laundry, and security. However, students will need to pay for their own books, stationery, and other personal expenses. Yes, the hostel at Amity University, Noida has a gym. The gym is equipped with a variety of equipment, including treadmills, ellipticals, weight machines, and free weights. The gym is open 24 hours a day, 7 days a week. In addition to the gym, the hostel also has a number of other facilities, including: A canteen A laundry room A common room A library A medical center A security room The hostel is located on the university campus, which means that students have easy access to all of the university's facilities, such as the library, the sports complex, and the academic buildings. Overall, the hostel at Amity University, Noida is a good option for students who want to live on campus. The hostel is clean, safe, and well-maintained. It also has a number of facilities that students will need, such as a gym, a canteen, and a laundry room."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is the infrastructure of Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The infrastructure of Amity University Noida has been rated excellent. The university has a sprawling campus spread over 250 acres. The campus is well-maintained and has a green and lush environment. The university has a number of modern facilities, including: State-of-the-art classrooms Well-equipped laboratories A library with a large collection of books and journals A sports complex with a swimming pool, a gymnasium, and a number of sports courts A hostel for students A canteen with a variety of food options A medical center A number of student clubs and societies The infrastructure of Amity University Noida is one of the best in the country. The university has everything that students need to succeed in their studies."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the facilities offered by Amity University Noida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Amity University Noida offers several facilities to students. Amity Noida has established separate on-campus hostels for boys and girls with the option of shared and single occupancy rooms. Amity Noida has a wi-fi campus. All the classrooms have air conditioners. Apart from this, it is noticed that the university facilitates students with labs, shuttle service, music and dance rooms, and various other medical facilities."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/noida",
+                    "name": "Colleges in Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334",
+                    "name": "Amity Noida"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/amity-university-noida-41334/infrastructure",
+                    "name": "Infrastructure"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "Amity Noida Infrastructure: Details, Reviews, Facilities",
+        "description": "Check Amity Noida Infrastructure details, campus & classroom Reviews and  Facilities available inside & outside the campus. Download Brochure & complete Infrastructure details of Amity Noida.",
+        "dateModified": "2025-02-21T16:43:00+05:30",
+        "datePublished": "2023-09-15T11:08:22+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/amity-university-noida-41334/infrastructure",
+            "@type": "WebPage",
+            "name": "Amity University, Noida"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "NishatHussain",
+            "url": "https://www.shiksha.com/author/Nishat44722"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

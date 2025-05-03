@@ -1,0 +1,346 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIIT Delhi",
+        "url": "www.iiitd.ac.in",
+        "email": "info@iiitd.ac.in",
+        "telephone": "01126907400",
+        "address": "Okhla Industrial Estate, Phase III, Near Govind Puri Metro Station",
+        "logo": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.456521735675093",
+            "reviewCount": "158",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is IIIT Delhi better than DTU?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "DTU ranks 29 and <a href=\"https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722\" target=\"_blank\" rel=\"noopener\">IIIT Delhi</a> ranks 85 as per the NIRF ranking 2024 under the “Engineering” category. The total tuition fee for BTech is INR 3 lakh – INR 6.4 lakh at <a href=\"https://www.shiksha.com/university/dtu-delhi-technological-university-23920\" target=\"_blank\" rel=\"noopener\">DTU</a> and INR 18 lakh at IIIT Delhi. The highest domestic and international package offered during IIIT Delhi BTech placements 2024 stood at INR 49 LPA and INR 109 LPA, respectively. Additionally, in DTU, the highest package offered in 2022 was INR 64.23 lakh. Considering the mentioned data, DTU is definitely a better choice for BTech course aspirants."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I get admission in IIIT Delhi for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Admission to the BTech programme is done basis JEE Main score followed by JAC Delhi Counselling. For Delhi-based students, admission to BTech CSD and CSSS programmes is done basis of UCEED rank and Class 12 marks, respectively. Candidates who further meet the minimum eligibility criteria can fill out the admission form. Eligible students can submit their application through the IIIT Delhi official website. The result is further announced to declare the names of the candidates selected for further selection rounds."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the cutoff for BTech in Computer Science and Applied Mathematics at IIIT Delhi for other than general categories?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In 2024, the cutoff ranks for BTech in Computer Science and Applied Mathematics at IIIT Delhi other than General category was - 23566 for OBC, 94128 for SC, 103550 for ST, and 13240 for EWS. While the admissions are based on the scores/rank obtained in JEE exam, the last cut offs also change a lot depending on All India quota or Home State. Moreover, the cutoff rank also varies if the applicant is a female."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How many seats are available for M.Tech in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There are a total of 284 seats for M.Tech programmes. Further, the IIIT Delhi M.Tech specialisation-wise seat intake is mentioned in the table given below: Specialisations Seat Intake CSE GATE: 105 Non-GATE: 40 ECE GATE: 69 Non-GATE: 16 CB 29 CB - DBT 15 MTech (Research) in CSE 10 NOTE: The seat intake mentioned here is taken from the IIIT Delhi official website."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much marks are required for IIIT Delhi BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Selection for BTech in IIIT Delhi is through JAC Delhi. The rounds of counselling continue until all the seats are allotted. Candidates can refer to the following table for JAC Delhi closing rank for BTech: Course 2022 2023 2024 B.Tech. in Computer Science and Engineering NA NA 497 <a href=\"https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/course-b-tech-in-computer-science-and-applied-mathematics-289839\">B.Tech. in Computer Science and Applied Mathematics</a> 461 509 808 B.Tech. in Computer Science and Design 462 810 877 <a href=\"https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/course-b-tech-in-computer-science-and-social-science-345045\">B.Tech. in Computer Science and Social Science</a> 778 882 898 B.Tech. in Computer Science and Artificial Intelligence 188 NA 632"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is BTech from IIIT Delhi worth it?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The technology institute is ranked 85 under the “Engineering” category in the NIRF 2024 rankings. IIIT Delhi also provides placement support to the students. During the BTech 2024 placements, a placement rate of 90.99% was achieved. Moreover, the highest domestic and average package offered was INR 49 LPA and INR 22.04 LPA, respectively. The average package stood at INR 25.39 LPA. Hence, students can consider pursuing BTech from IIIT Delhi."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What has been the cutoff trend for BTech in Electronics and Communication Engineering at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The cutoff trend for BTech at IIIT Delhi has been decreasing in the recent years. In 2024, the closing rank for BTech under general category for all India quota was 10559. In 2023, it improved to 8670. This trend is likely to continue in the coming years, as the demand for engineering education in India continues to grow. Similar cut off trend can be seen for female candidates under all categories however the ranks are slightly different."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get admission to IIIT Delhi without JEE mains?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The BTech course at IIIT Delhi is offered to candidates on the basis of their JEE Mains scores. It is not possible to get admission to IIIT Delhi without appearing for the entrance exam as it is an essential part of the selection process. Candidates must also have a minimum of 75% aggregate in their Class 12 to be eligible for the four-year BTech course at IIIT Delhi."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I apply at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates who meet the course-specific eligibility requirement can fill out the IIIT Delhi application form. However, this does not confirm the selection. The institute accepts applications in online mode. The application process 2025 for different programmes at IIIT Delhi is explained below in a step-wise way: Step 1: Visit the official website of IIIT Delhi. Step 2: Click on the respective programme tab from the ‘Admission’ tab. Step 3: Read the instructions carefully. Step 4: Click on the application link. Step 5: Fill out and submit the form."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the JEE Main application fee?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The application fees for JEE Main is INR 1,000 (Male unreserved/OBC/EWS category) INR 800 (Female unreserved/OBC/EWS category) INR 500 (SC/ST/PwD/Transgender category) Candidates have the option of paying the application fee online through credit/debit card and internet banking. The application form will not be considered submitted until the application fees is paid. Once the application fee are paid, candidates receive a confirmation email at their registered email address confirming the payment of fees."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is JEE Main application form 2025 official website?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The JEE Main application form 2025 official website is jeemain.nta.nic.in. NTA has released the JEE Main 2025 session 2 application form in the official website. Candidates can fill the form from the website. Details regarding JEE Main application fee, documents required to fill the form, how to apply and other important details related to application process can be checked on this Shiksha page."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get direct admission to IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi admit candidates to a few courses without any entrance examination. For example, the institute admits candidates to the BTech CSSS programme based on their performance in Class 12 or an equivalent examination. Moreover, for PG Diploma in Data Science & Artificial Intelligence, aspirants who meet the eligibility criteria are only required to take part in an interview round. For any more details, students can contact the IIIT Delhi admission office."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which entrance exams are accepted by IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The technology institute accepts various national-level entrance exams. The table given below mentions the course-wise accepted entrance exams: Course Accepted Entrance Exam BTech JEE Main MTech GATE PhD UGC NET/GATE/CSIR NET"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I study at IIIT Delhi at a cheaper cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Here are some of the ways in which you can reduce the cost of studying at IIIT Delhi: Apply for scholarships: IIIT Delhi offers a number of scholarships to students who meet certain criteria, such as academic merit or financial need. Take up a part-time job: There are a number of part-time jobs available on campus, such as teaching assistants, research assistants, and library assistants. These jobs can help you to earn some extra money to help offset the cost of your education. Take a loan: If you are unable to afford the cost of your education, you can take out a loan from a bank or financial institution. However, it is important to note that loans can be expensive, so you should only take one out if you are confident that you will be able to repay it. If you are interested in studying B.Teach. CSE at IIIT Delhi, you should start planning early. You should apply for scholarships, start looking for part-time jobs, and consider taking out a loan. By doing this, you can reduce the cost of your education and make it more affordable."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the trips and ticks to get admission at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Here are some tips for improving your chances of getting into IIIT Delhi for B.Teach in Computer Science and Applied Mathematics: Score well in the JEE Main or UCEED entrance exams. Have a strong academic record. Get good grades in your 10th and 12th boards. Participate in extracurricular activities and showcase your leadership skills. Write a strong personal statement. Get good recommendations from your teachers or professors."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get admission to MTech without a GATE score at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, admission to a MTech course is IIIT Delhi is accepted without GATE score. However, it depends upon the chosen specialisation. GATE score is mandatory for the MTech CB course admission. However, admission to MTech CSE and ECE programmes is done based on merit in GATE, plus PGCAT-IIITD exam scores are also accepted. Additionally, for the MTech CB (DBT seats) admission, the selection is done based on GAT-B score."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How to apply for IIIT Delhi MTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The aspirants who fulfil the course-specific eligibility requirements can register and apply for admission. Eligible candidates can submit their application through the IIIT Delhi official website (iiitd.ac.in). The application procedure involves online registration, form filling, document upload, and application fee payment. Candidates shall ensure that they submit the application within the due date. Candidates have to complete entrance exams applications such as <a href=\"https://www.shiksha.com/engineering/gate-exam-application-form\" target=\"_blank\" rel=\"noopener\">GATE Application Process</a> and GAT-B application process, separately."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the cost of studying M.Tech in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi MTech course fee includes multiple fee components such as tuition fee, hostel charges (if applicable), security deposit, alumni fee, etc. The total tuition fee for MTech ranges between INR 3.7 lakh and INR 6 lakh. This given fee range is inclusive of fees for all the MTech specialisations. It must be taken into account that the mentioned fee is as per the official website/sanctioning body. It is still subject to changes and hence, is indicative."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Who is eligible for M.Tech course admission at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates with a valid BE/BTech (all branches) degree or PG Degree in Science/Mathematics/IT/Computers/MCA from a recognised university can apply for admission. It is further also necessary that the candidate passed the qualifying examination with a minimum of 65% aggregate for admission to CSE, ECE, and CB MTech courses. Additionally, for MTech (Research) in CSE, aspirants shall have secured at least 75% aggregate (5% relaxation to reserved categories)."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is it expensive to study PG Diplma at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The fee varies for both the PG Diploma courses. The total course fee is also inclusive of multiple fee components. Candidates can check out the below-mentioned table for IIIT Delhi fee for PG Diploma programmes: PG Diploma Course Total Tuition Fee Computer Science & Artificial Intelligence INR 2 lakh Data Science & Artificial Intelligence INR 2.48 lakh NOTE: The mentioned fee is taken from external sources. Hence, may vary. It is also inclusive of 18% GST."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does IIIT Delhi offer a PG Diploma?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, the institute offers two PG Diploma courses. It offers a nine-month long Diploma course in Data Science & AI (DS & AI) programme with IBM and 12-month long Computer Science and Artificial Intelligence (CS & AI) Diploma with Great Learning. Admission to the CS & AI course is based on merit in an online admission test followed by an interview round. Further, for DS & AI course, candidates are shortlisted and directly called for an online interview round."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much stipend is given to PhD candidates at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The stipend offered is INR 35,000 per month until successful completion of the comprehensive exam and INR 37,000 per month from completing the comprehensive exam until completion of the fifth year. This information is as per the data available on IIIT Delhi official website. For any more details regarding the offered stipend, the PhD candidates can reach out to the respective department or the admission office."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the selection process for PhD in IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The technology institute admits candidates to PhD programmes on merit and respective entrance exam scores. The accepted entrance exams are GATE/ UGC NET/CSIR NET. Candidates shortlisted based on exam scores are then invited for the interview round for final selections. Moreover, for some of the PhD programmes, candidates are selected based on performance in the last qualifying examination. It is also crucial that each of the aspirants meet the required eligibility criteria."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the IIIT Delhi seat intake for PhD?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIIT Delhi seat intake for each of the PhD courses is 10. However, it must be noted that the mentioned seat intake is as per unofficial sources. Hence, the actual count may vary. Candidates can visit the IIIT Delhi official website (iiitd.ac.in) or get in touch with the admission office for more details related to the seat intake. The seat reservation policy can also be confirmed by the admission office."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I get scholarship at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, there are a number of scholarships available to students who wish to study at IIIT Delhi. These scholarships are awarded based on merit, need, or a combination of both. The following are some of the scholarships that are available to students at IIIT Delhi: Merit-based scholarships: These scholarships are awarded to students who have performed well in their academics. Some examples of merit-based scholarships include the Chairman Scholarship, the Women Empowerment Scholarship, and the Fast Retailing Scholarship. Need-based scholarships: These scholarships are awarded to students who come from low-income families. Some examples of need-based scholarships include the Dean's Merit-cum-Need Scholarship and the IIIT Delhi Scholarship for Excellence in Academics. Sports scholarships: These scholarships are awarded to students who have excelled in sports. Some examples of sports scholarships include the IIIT Delhi Sports Scholarship and the IIIT Delhi Cricket Scholarship. To be eligible for a scholarship, you must meet the eligibility criteria set by the scholarship provide. The eligibility criteria for each scholarship vary, so you should carefully read the eligibility criteria for each scholarship that you are interested in applying for."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the fee for IIIT Delhi BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "BTech total course fee is cumulative of various fee components, including tuition fee, hostel charges (if applicable), alumni fee, security money, etc. The one-time fee includes a security deposit, admission fee, etc. Table given below showcases the IIIT Delhi BTech fee structure: Fee components Amount (4 years) Tuition fees INR 19.55 Lakh Hostel fees INR 4.40 Lakh One-time payment INR 12,000 NOTE: The above-mentioned fee is as per the official website/sanctioning body. It is still subject to changes and hence, is indicative."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the eligibility criteria for IIIT Delhi BTech courses?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Candidates need to be Class 12 pass with minimum 70% aggregate in five subjects including <a href=\"https://www.shiksha.com/science/physics-chp\">Physics</a>, Maths and Chemistry and 70% in Mathematics in Class 12 from a recognised board to become eligible for the BTech programme. Moreover, the aspirant should have passed the qualifying exam from a recognised board. During the form filling and at the time of admission, candidate must hold the pass certificate for verification purposes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the opening and closing rank for BTech in Computer Science and Biosciences at IIIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Opening and Closing rank depends on the category and quota of candidates. For the General category under All India, opening rank was 4554 and closing rank was 4659 in 2023. The cutoff in 2024 for the all-India quota ranged from 6695 to 9975. Cut off are differant when it comes to other categories or female candidates and even domicile of home state. Admission to BTech in Computer Science and Biosciences in IIIT Delhi is based on the scores obtained in the entrance exam JEE. Applicants are advised to confirm what category are they applying while checking for cut offs."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722",
+                    "name": "IIIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/admission",
+                    "name": "admission"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIIT Delhi Admission 2025: Last Date, Courses, Eligibility, Fees, Cutoff, Selection",
+        "description": "Check out the complete details on IIIT Delhi course admission 2025, including eligibility, fee, selection process, etc.",
+        "dateModified": "2025-03-17T12:21:00+05:30",
+        "datePublished": "2024-10-04T15:12:48+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iiit-delhi-indraprastha-institute-of-information-technology-32722/admission",
+            "@type": "WebPage",
+            "name": "IIIT Delhi - Indraprastha Institute of Information Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "BhumikaKhandelwal",
+            "url": "https://www.shiksha.com/author/Bhumika137609"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1572337397phpPP6RNA.jpg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

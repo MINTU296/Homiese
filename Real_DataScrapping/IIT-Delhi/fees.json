@@ -1,0 +1,170 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi, Hauz khas",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the fees of MBA in IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi MBA fees is INR 11.2 Lacs for the complete two years. The fee mentioned here is the total tuition fee and is taken from an unofficial source. Hence, is indicative. The exact amount of fees and mode of payment will be indicated in the offer of admission for new students. For more details regarding the IIT Delhi MBA fee structure, candidates are advised to contact the admission department of the institute."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the hostel fee for IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi hostel fee depends upon various factors such as the type of room selected, opted facilities and the course. The hostel fee vary from one course to another. In the following table, course-wise IITD hostel fee is mentioned: MTech/MS(R)/MDes/PhD/MSc/MBA Old Hostels Fees New Hostels Fees Hostel Seat Rent INR 8,600 INR 23,600 One time charges INR 7,000 INR 7,000 Total (per semester) INR 44,600 INR 59,600 Mess Charges* INR 36,000 INR 36,000 Refundable Deposit INR 15,000 INR 15,000 *These charges are subject to revision from time to time."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much is the fee of IIT Delhi Certificate programmes?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The total course fee is inclusive of multiple components such as tuition fee, admission fee, caution deposit, etc. IIT Delhi certificate courses fee range between INR 65,000 and INR 2.4 Lacs as the fee vary from one certificate course to another. Further, the fee range given here is as per an unofficial source. Thus, is indicative. Candidates are advised to visit the IITD official website or get in touch with the admission office for complete details about the fee structure."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the IIT Delhi application fee for BTech?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The application fee can be done via credit card/debit card/net banking. Find below the category-wise application fee for JEE Main: Category Application Fee Male unreserved/OBC/EWS INR 1,000 Female unreserved/OBC/EWS INR 800 SC/ST/PwD/Transgender INR 500"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is there any private college with fee under INR 5 Lacs to pursue B.Tech in Delhi NCR?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There are various private colleges in Delhi NCR offering pocket friendly BTech courses that is close to INR 5 lakh. Tabulated below are some of the well known affordable private Engineering Colleges: BTech Colleges Fees Galgotias University INR 5.96 lakh NIET INR 5.71 lakh KIET Group of Institutions INR 5.64 lakh"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which are some of the best and most affordable engineering colleges in Delhi NCR?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is estimated that studying <a href=\"https://www.shiksha.com/engineering/colleges/b-tech-colleges-delhi-ncr\">Engineering in Delhi NCR</a> is economical. Most of the colleges have annual fees ranging from INR 2-3 lakh and some of the colleges are DTU, IPU, NSTU, GNIOT, and many more. The table below shows several low-cost B Tech colleges in Delhi with their annual fee: College Names Total Tuition Fee <a href=\"https://www.shiksha.com/university/jamia-millia-islamia-delhi-843/fees\">Jamia Millia Islamia Fees</a> INR 65,000 <a href=\"https://www.shiksha.com/university/j-c-bose-university-of-science-and-technology-ymca-faridabad-21570/fees\">J. C. Bose University of Science and Technology Fees</a> INR 86,000 <a href=\"https://www.shiksha.com/college/cluster-innovation-centre-university-of-delhi-north-campus-59011/fees\">Cluster Innovation Centre, University of Delhi Fees</a> INR 75,000 <a href=\"https://www.shiksha.com/university/dcrust-deenbandhu-chhotu-ram-university-of-science-and-technology-sonepat-25196/fees\">DCRUST Fees</a> INR 64,000 <a href=\"https://www.shiksha.com/university/ndri-national-dairy-research-institute-karnal-4313/fees\">National Dairy Research Institute Fees</a> INR 21,000 Disclaimer: This information is sourced from the official website."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/fees",
+                    "name": "fees"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIT Delhi Fees 2025: Admission, Hostel & all Courses Fee Structure",
+        "description": "Get IIT Delhi fee structure along with hostel, admission, transport, library & other applicable fees! Download brochure and check yearly and complete fees of IIT Delhi for various courses & activities at Shiksha",
+        "dateModified": "2024-11-18T16:49:00+05:30",
+        "datePublished": "2024-11-18T16:49:45+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/fees",
+            "@type": "WebPage",
+            "name": "IIT Delhi - Indian Institute of Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "NancyKumari",
+            "url": "https://www.shiksha.com/author/Nancy203546"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]

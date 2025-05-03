@@ -1,0 +1,162 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Delhi, Hauz khas",
+        "url": "https://home.iitd.ac.in/",
+        "email": "info@iitd.ac.in",
+        "telephone": "01126597135",
+        "address": "Indian Institute of Technology, IIT Delhi Main Rd, IIT Campus",
+        "logo": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "5",
+            "ratingValue": "4.464891855807947",
+            "reviewCount": "717",
+            "worstRating": "1"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What is the rank of IIT Delhi in QS World University Rankings 2024?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi is listed as the 197th best university in the world as per the QS World University Rankings 2024. The institute is ranked 46th in the Asia University Rankings and 151-200 in the Engineering and Technology (Engineering) category. The QS World University Rankings are based on several variables, such as academic standing, employer standing, faculty-to-student ratio, number of citations per faculty, and proportion of foreign students. IIT Delhi was also ranked 717 by the US News Rankings 2022."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Why has IIT Delhi QS World Ranking 2024 dipped from last year?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "There can be a few possible reasons for IIT Delhi's ranking decline in the recent years of QS World Rankings. One possibility is that the institute has not been able to keep pace with the rising standards of other top universities around the world. Another possibility is that the institute has not been able to attract as many top-quality faculty and students as it did in the past. Despite the ranking decline, IIT Delhi remains one of the top engineering and technology institutes in India. The institute offers a wide range of undergraduate, postgraduate, and doctoral programs in engineering, science, and technology. IIT Delhi also has a strong research reputation, and its faculty members have produced many notable research publications."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the NIRF Ranking of IIT Delhi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi has consistently been ranked among the top 3 IITs in India as per the NIRF rankings. The institute has been ranked 2 in the Engineering category for all three years. Additionally, the institute continued to excel in other categories such as Overall and Management as it ranked 3 and 5, respectively. The institute has a strong faculty with a number of eminent professors. The institute also has world-class research facilities. IIT Delhi's alumni are well-placed in the industry and academia."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How well is IIT Delhi ranked by The India Today Rankings 2023?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi has been consistently ranked 1 in the ‘Engineering’, ‘Government Engineering’ and ‘Technical University’ categories, for the last three years. IIT Delhi has a strong faculty with a number of eminent professors. The institute also has world-class research facilities. IIT Delhi's alumni are well-placed in the industry and academia. Here are the specific ranking scores for IIT Delhi in the India Today Rankings 2023: Overall: 73.69 out of 100 Engineering: 80.66 out of 100 Research: 72.64 out of 100"
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the ranking of IIT Delhi by The Week 2023?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "IIT Delhi is No. 1 Engineering institute in India for both the BTech and Overall categories, according to the Week 2023 Ranking. For the last 11 years, the institute has held the top spot. IIT Madras, IIT Kanpur, and IIT Bombay round up the top five. Faculty, research, facilities, placements, and alumni are just a few of the criteria used to rank engineering colleges in The Week. The faculty of IIT Delhi is robust and includes several distinguished academics. Additionally, the institution boasts top-notch research facilities. Alumni of IIT Delhi have prominent positions in both academia and industry."
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.shiksha.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://www.shiksha.com/colleges/delhi",
+                    "name": "Colleges in Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+                    "name": "IIT Delhi"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/ranking",
+                    "name": "ranking"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "inLanguage": "en",
+        "headline": "IIT Delhi Ranking 2025: India & Worldwide Ranking by NIRF, QS, Times Higher!",
+        "description": "Know IIT Delhi India & Worldwide ranking by NIRF, QS, Outlook, Times Higher Education, India today and other ranking bodies! Download brochure and check past years' ranking trends of IIT Delhi @ Shiksha",
+        "dateModified": "2024-07-23T10:56:00+05:30",
+        "datePublished": "2024-07-09T14:42:15+05:30",
+        "mainEntityOfPage": {
+            "id": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938/ranking",
+            "@type": "WebPage",
+            "name": "IIT Delhi - Indian Institute of Technology"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "LiyanshaJain",
+            "url": "https://www.shiksha.com/author/Liyansha238964"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Shiksha.com",
+            "logo": {
+                "@type": "ImageObject",
+                "name": "Shiksha.com",
+                "url": "https://images.shiksha.ws/pwa/public/images/schema/shiksha_logo.jpg",
+                "height": "100",
+                "width": "239"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Shiksha.com",
+        "url": "https://www.shiksha.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.shiksha.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.shiksha.com",
+        "logo": "https://www.shiksha.com/public/images/nshik_ShikshaLogo1.gif",
+        "name": "Shiksha.com",
+        "sameAs": [
+            "https://www.facebook.com/shikshacafe",
+            "https://twitter.com/ShikshaDotCom",
+            "https://in.linkedin.com/company/shiksha-com-a-naukri-com-venture-",
+            "https://www.instagram.com/shikshadotcom/",
+            "https://www.youtube.com/c/shiksha"
+        ]
+    }
+]
