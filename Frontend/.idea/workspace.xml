@@ -5,20 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c0b4ee-2846-434e-ab4c-47b99ee7afe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Backend/controller/chat.controllor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/controller/details.controllor.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/controller/profile.controllor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/models/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/route/chat.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend/route/details.route.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Backend/route/profile.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/chat/page.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/(root)/profile/updateDetails/page.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/formSchema/updatePage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Backend/controller/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/controller/auth.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Backend/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/route/auth.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/route/auth.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/route/userRoute.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/MentorPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/MentorPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Components/mentorDisplay.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/mentorDisplay.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/navbar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Components/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Components/sidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/college-Info/college_info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/college-Info/college_info.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/college-Info/infopage_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/college-Info/infopage_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/college-Info/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/college-Info/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/profile/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/profile/page.tsx" afterDir="false" />
@@ -106,7 +117,7 @@
       <workItem from="1745908325342" duration="8436000" />
       <workItem from="1746097933934" duration="240000" />
       <workItem from="1746163693444" duration="22651000" />
-      <workItem from="1746248243344" duration="24565000" />
+      <workItem from="1746248243344" duration="46076000" />
     </task>
     <servers />
   </component>

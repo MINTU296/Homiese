@@ -5,6 +5,8 @@ import authRouter from "./route/auth.route.js";
 import connectToDatabase from "./database/mongoose.js";
 import cookieParser from "cookie-parser"
 import profileRouter from "./route/profile.route.js";
+import detailsRouter from "./route/details.route.js";
+import chatRouter from "./route/chat.route.js";
 
 
 const app = express();
@@ -20,7 +22,8 @@ app.use(cors({
 
 app.use("/api/v1/auth" , authRouter);
 app.use("/api/v1/profile" , profileRouter);
-
+app.use("/api/v1/fetch", detailsRouter);
+app.use("/api/v1/chat" , chatRouter);
 
 app.get('/change', (req, res) => {
   res.send("Hello from the backend");

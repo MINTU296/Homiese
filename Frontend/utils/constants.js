@@ -3,5 +3,9 @@ export const API_SIGNUP_URL = '/api/v1/auth/sign-up'
 export const API_LOGIN_URL = '/api/v1/auth/login'
 export const API_GET_USER = "/api/v1/auth/user-info"
 export const API_UPDATE_DETAILS = "/api/v1/profile/update"
-
-console.log(HOST);
+export const API_GET_DETAILS = "/api/v1/fetch/getDetail"
+export const API_ADD_CONNECTION = "/api/v1/chat/add-connection"
+export const API_GET_ALL_CONNECTIONS = "/api/v1/chat/get-all-connections"
+export const API_GET_USER_DETAILS = "/api/v1/fetch/get-user-details"
+export const API_UPDATE_CHAT = "/api/v1/chat/update-chat"
+export const API_GET_CHAT = "/api/v1/chat/get-chat"

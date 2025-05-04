@@ -6,8 +6,9 @@ import collegeData from "@/app/college-Info/collegeData.json";
 import CollegeAbout from "@/app/Components/collegeAbout";
 import MentorPage from "@/app/Components/MentorPage";
 import RelatedPostsCollege from "@/app/Components/relatedPostsCollege";
+import {useAppStore} from "@/store";
 
-export default function     CollegePage() {
+export default function CollegePage() {
     const searchParams = useSearchParams();
     const query = searchParams.get("page") || "";
 
@@ -78,7 +79,7 @@ export default function     CollegePage() {
                 />
             )}
 
-            {tab === 1 && <MentorPage mentors={college.mentors} />}
+            {tab === 1 && <MentorPage collegeName={college.name} />}
 
             {tab === 2 && <RelatedPostsCollege />}
         </div>

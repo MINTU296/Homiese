@@ -47,7 +47,7 @@ export default function UpdateDetails() {
             role: userInfo?.role || "",
             collegeName: userInfo?.collegeName || "",
             description: userInfo?.description || "",
-            batch : userInfo?.batch.toString() || "2026",
+            batch : userInfo?.batch || "2026",
             course : userInfo?.course || "",
         }
     });

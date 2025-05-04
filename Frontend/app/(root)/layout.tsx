@@ -1,6 +1,6 @@
 "use client";
 import React, {useEffect, useState} from "react";
-import { useRouter } from "next/navigation";
+import { useRouter , usePathname} from "next/navigation";
 import Navbar from "@/app/Components/navbar";
 import SideBar from "@/app/Components/sidebar";
 import {useAppStore} from "@/store";
@@ -14,7 +14,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     const {userInfo , setUserInfo} = useAppStore();
     const [loading ,setLoading] = useState<boolean>(userInfo === undefined);
     const router = useRouter();
-
+    const pathname = usePathname();
     const handleSearch = () => {
         if (searchQuery.trim() !== "") {
             setShowSearch(false); // Hide modal
@@ -32,7 +32,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     setUserInfo(response.data.user);
                     setLoading(false);
                 } catch (e) {
-                    console.log("Hello");
                     router.push("/login");
                 }
             };
@@ -44,7 +43,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
     console.log(userInfo);
     return (
-        <div className={"h-[100vh] bg-gray-100 flex justify-center items-center"}>
+        <div className={`h-[100vh] bg-gray-100 flex justify-center items-center`}>
 
             {
                 loading  ? (
@@ -59,11 +58,16 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                         </div>
 
                         <div className={`flex-1 transition-all duration-300 ${showSearch ? "blur-md" : ""}`}>
-                            <div className="fixed top-0 right-0 w-full bg-white shadow-md z-10">
-                                <Navbar userName={ userInfo.username} />
-                            </div>
+                            {pathname !== "/chat" && (
+                                <div className="fixed top-0 right-0 w-full bg-white shadow-md z-10">
+                                    <Navbar userName={userInfo.username} />
+                                </div>
+                            )}
 
-                            <main className="flex-1 p-4 mt-[60px] ml-[250px]">{children}</main>
+
+                            <main className={`flex-1 p-3 ml-[250px] ${pathname !== "/chat" ? "mt-[60px]" : "mt-[0px] p-0 "}`}>
+                                {children}
+                            </main>
                         </div>
 
                         {showSearch && (

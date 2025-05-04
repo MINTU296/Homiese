@@ -8,7 +8,7 @@ import {apiClient} from "@/lib/api-client";
 import {API_GET_USER} from "@/utils/constants";
 import {useRouter} from "next/navigation";
 
-export default function Layout({ children }: { children: React.ReactNode }) {
+export default function Infopage_layout({ children }: { children: React.ReactNode }) {
     const {userInfo , setUserInfo} = useAppStore();
     const [loading ,setLoading] = useState<boolean>(userInfo === undefined);
     const router = useRouter();
@@ -38,7 +38,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             {/* Fixed Sidebar */}
             {
                 loading  ? (
-                    <div className="flex flex-col items-center justify-center h-screen">
+                    <div className="flex flex-col items-center justify-center h-[100vh] w-[100vw]">
                         <div className="w-10 h-10 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
                         <p className="mt-4 text-lg font-medium">Loading ...</p>
                     </div>
